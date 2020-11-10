@@ -1,0 +1,5569 @@
+fileFormatVersion: 2
+guid: 5c9cc83c58d64e04cb375f015f83866e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -534242207500288312
+    second: Assets 1_0
+  - first:
+      213: -7561596572177719706
+    second: Assets 1_1
+  - first:
+      213: -4396061252477769625
+    second: Assets 1_2
+  - first:
+      213: -3637176468013677832
+    second: Assets 1_3
+  - first:
+      213: 8866540013290690473
+    second: Assets 1_4
+  - first:
+      213: 4447425773683075185
+    second: Assets 1_5
+  - first:
+      213: -7499340820472659648
+    second: Assets 1_6
+  - first:
+      213: -2191863938963501123
+    second: Assets 1_7
+  - first:
+      213: 2232637020889009645
+    second: Assets 1_8
+  - first:
+      213: -3038308683442897569
+    second: Assets 1_9
+  - first:
+      213: -3261552998882442266
+    second: Assets 1_10
+  - first:
+      213: 4011534777681452629
+    second: Assets 1_11
+  - first:
+      213: -2045606447612967098
+    second: Assets 1_12
+  - first:
+      213: -7655942015774215046
+    second: Assets 1_13
+  - first:
+      213: -3575039353988869396
+    second: Assets 1_14
+  - first:
+      213: -8719215850737061267
+    second: Assets 1_15
+  - first:
+      213: -6248876290649166771
+    second: Assets 1_16
+  - first:
+      213: 134020985348368567
+    second: Assets 1_17
+  - first:
+      213: -927750458624527792
+    second: Assets 1_18
+  - first:
+      213: 236833370562257942
+    second: Assets 1_19
+  - first:
+      213: -4032971951200114611
+    second: Assets 1_20
+  - first:
+      213: 3373457352949993609
+    second: Assets 1_21
+  - first:
+      213: -3931278159848372552
+    second: Assets 1_22
+  - first:
+      213: -3614501008633289006
+    second: Assets 1_23
+  - first:
+      213: -1413212492402760468
+    second: Assets 1_24
+  - first:
+      213: 7036810486176189389
+    second: Assets 1_25
+  - first:
+      213: -8865323282526993633
+    second: Assets 1_26
+  - first:
+      213: -8285684720851623157
+    second: Assets 1_27
+  - first:
+      213: -7779386833329068007
+    second: Assets 1_28
+  - first:
+      213: 1109684847729273816
+    second: Assets 1_29
+  - first:
+      213: 326376752630893519
+    second: Assets 1_30
+  - first:
+      213: -3835717489694679941
+    second: Assets 1_31
+  - first:
+      213: -6368973583668921803
+    second: Assets 1_32
+  - first:
+      213: -8783865838549224281
+    second: Assets 1_33
+  - first:
+      213: 4005596048912325289
+    second: Assets 1_34
+  - first:
+      213: 8321580088243319897
+    second: Assets 1_35
+  - first:
+      213: 6859738403893973370
+    second: Assets 1_36
+  - first:
+      213: -165111084749107326
+    second: Assets 1_37
+  - first:
+      213: -111784127133702084
+    second: Assets 1_38
+  - first:
+      213: 6264936902738749808
+    second: Assets 1_39
+  - first:
+      213: -988459355071112879
+    second: Assets 1_40
+  - first:
+      213: -2160316917292826356
+    second: Assets 1_41
+  - first:
+      213: 3918216133765481682
+    second: Assets 1_42
+  - first:
+      213: 8862827199120437716
+    second: Assets 1_43
+  - first:
+      213: -2990553177558971384
+    second: Assets 1_44
+  - first:
+      213: 86444933110457248
+    second: Assets 1_45
+  - first:
+      213: 4534268867569898605
+    second: Assets 1_46
+  - first:
+      213: -231334526503997238
+    second: Assets 1_47
+  - first:
+      213: 4220268372898179316
+    second: Assets 1_48
+  - first:
+      213: -6795617186809822733
+    second: Assets 1_49
+  - first:
+      213: 3583896579406014922
+    second: Assets 1_50
+  - first:
+      213: 3188219116634284004
+    second: Assets 1_51
+  - first:
+      213: -2343762299562928230
+    second: Assets 1_52
+  - first:
+      213: 3779285419743198093
+    second: Assets 1_53
+  - first:
+      213: -2432873816657533694
+    second: Assets 1_54
+  - first:
+      213: -9203635157489392675
+    second: Assets 1_55
+  - first:
+      213: -6002761757777703096
+    second: Assets 1_56
+  - first:
+      213: 668328414207595027
+    second: Assets 1_57
+  - first:
+      213: -5861930260356128247
+    second: Assets 1_58
+  - first:
+      213: 27711129212683472
+    second: Assets 1_59
+  - first:
+      213: 8884580187481468595
+    second: Assets 1_60
+  - first:
+      213: -5817965476548976460
+    second: Assets 1_61
+  - first:
+      213: 1202536812442331769
+    second: Assets 1_62
+  - first:
+      213: 59841329350759960
+    second: Assets 1_63
+  - first:
+      213: 4293315581691273874
+    second: Assets 1_64
+  - first:
+      213: -1300044893446186586
+    second: Assets 1_65
+  - first:
+      213: 8809551790945687032
+    second: Assets 1_66
+  - first:
+      213: -7123068372667246190
+    second: Assets 1_67
+  - first:
+      213: 3557744947655649894
+    second: Assets 1_68
+  - first:
+      213: -8912042031789627451
+    second: Assets 1_69
+  - first:
+      213: 3781977266778448754
+    second: Assets 1_70
+  - first:
+      213: 7990669779593084702
+    second: Assets 1_71
+  - first:
+      213: -374553576890867893
+    second: Assets 1_72
+  - first:
+      213: 6881472933476401919
+    second: Assets 1_73
+  - first:
+      213: -4281352284498042709
+    second: Assets 1_74
+  - first:
+      213: -5771548355623853692
+    second: Assets 1_75
+  - first:
+      213: -6508553799235633485
+    second: Assets 1_76
+  - first:
+      213: -5416247399954898550
+    second: Assets 1_77
+  - first:
+      213: -8115253202317881571
+    second: Assets 1_78
+  - first:
+      213: 1305670244358872786
+    second: Assets 1_79
+  - first:
+      213: 1881307821727429248
+    second: Assets 1_80
+  - first:
+      213: -5733457030399520740
+    second: Assets 1_81
+  - first:
+      213: -2279141852923441202
+    second: Assets 1_82
+  - first:
+      213: -2506751675590084599
+    second: Assets 1_83
+  - first:
+      213: 8606448546586588177
+    second: Assets 1_84
+  - first:
+      213: -2268189127261865620
+    second: Assets 1_85
+  - first:
+      213: -8399277252431484580
+    second: Assets 1_86
+  - first:
+      213: 1902333354655136265
+    second: Assets 1_87
+  - first:
+      213: -9129590229239511416
+    second: Assets 1_88
+  - first:
+      213: 6306633266994853777
+    second: Assets 1_89
+  - first:
+      213: -5007804577489604745
+    second: Assets 1_90
+  - first:
+      213: -2690093731546332904
+    second: Assets 1_91
+  - first:
+      213: 5190291340940264513
+    second: Assets 1_92
+  - first:
+      213: -1755435207271625736
+    second: Assets 1_93
+  - first:
+      213: -6766294554095732724
+    second: Assets 1_94
+  - first:
+      213: 7649504150995747436
+    second: Assets 1_95
+  - first:
+      213: 2885911802560963541
+    second: Assets 1_96
+  - first:
+      213: -2468719107304878559
+    second: Assets 1_97
+  - first:
+      213: 3386069728854670593
+    second: Assets 1_98
+  - first:
+      213: -8299173029687215693
+    second: Assets 1_99
+  - first:
+      213: 4692632699518054508
+    second: Assets 1_100
+  - first:
+      213: 8239425249144329933
+    second: Assets 1_101
+  - first:
+      213: -1790529696906130397
+    second: Assets 1_102
+  - first:
+      213: -8136934761045449356
+    second: Assets 1_103
+  - first:
+      213: 5094244822550553543
+    second: Assets 1_104
+  - first:
+      213: -7404593517034716360
+    second: Assets 1_105
+  - first:
+      213: 8807090507060075315
+    second: Assets 1_106
+  - first:
+      213: 1214076419304206812
+    second: Assets 1_107
+  - first:
+      213: -8307414612212303083
+    second: Assets 1_108
+  - first:
+      213: 2120766984969632027
+    second: Assets 1_109
+  - first:
+      213: -5565897110142601949
+    second: Assets 1_110
+  - first:
+      213: -2907797815525076979
+    second: Assets 1_111
+  - first:
+      213: -4203140432446295891
+    second: Assets 1_112
+  - first:
+      213: 9096337737246356259
+    second: Assets 1_113
+  - first:
+      213: 2745479006644592892
+    second: Assets 1_114
+  - first:
+      213: 4761954058409964708
+    second: Assets 1_115
+  - first:
+      213: 4005146070380249400
+    second: Assets 1_116
+  - first:
+      213: -7434652711982990466
+    second: Assets 1_117
+  - first:
+      213: 2122595729556092260
+    second: Assets 1_118
+  - first:
+      213: 6940193963106275431
+    second: Assets 1_119
+  - first:
+      213: -3744483154144626575
+    second: Assets 1_120
+  - first:
+      213: -5486144369460324029
+    second: Assets 1_121
+  - first:
+      213: 5163041149644435383
+    second: Assets 1_122
+  - first:
+      213: -5614603683713961248
+    second: Assets 1_123
+  - first:
+      213: 4471238427156491312
+    second: Assets 1_124
+  - first:
+      213: -6041517872690729949
+    second: Assets 1_125
+  - first:
+      213: 5905596082007410820
+    second: Assets 1_126
+  - first:
+      213: 1505311165246988316
+    second: Assets 1_127
+  - first:
+      213: 6989623669025733520
+    second: Assets 1_128
+  - first:
+      213: -2439541255537225506
+    second: Assets 1_129
+  - first:
+      213: 6160882498582670095
+    second: Assets 1_130
+  - first:
+      213: 859783598368760888
+    second: Assets 1_131
+  - first:
+      213: -4761715439758910561
+    second: Assets 1_132
+  - first:
+      213: 6176939567957052705
+    second: Assets 1_133
+  - first:
+      213: 8238650614275622660
+    second: Assets 1_134
+  - first:
+      213: 1348632766953199080
+    second: Assets 1_135
+  - first:
+      213: -1222021114183038127
+    second: Assets 1_136
+  - first:
+      213: 1780499806371053048
+    second: Assets 1_137
+  - first:
+      213: 6143361309315888775
+    second: Assets 1_138
+  - first:
+      213: -4836860002142951489
+    second: Assets 1_139
+  - first:
+      213: 152620528838322326
+    second: Assets 1_140
+  - first:
+      213: 8850591472093256938
+    second: Assets 1_141
+  - first:
+      213: 7319396511526731564
+    second: Assets 1_142
+  - first:
+      213: -6976649971761634636
+    second: Assets 1_143
+  - first:
+      213: 7865808224702773568
+    second: Assets 1_144
+  - first:
+      213: -6950901319999919590
+    second: Assets 1_145
+  - first:
+      213: 3891895981245325717
+    second: Assets 1_146
+  - first:
+      213: -8933884992646780472
+    second: Assets 1_147
+  - first:
+      213: 8892073582255711539
+    second: Assets 1_148
+  - first:
+      213: 6373594570385740556
+    second: Assets 1_149
+  - first:
+      213: -261014480737912930
+    second: Assets 1_150
+  - first:
+      213: 9057233185923465646
+    second: Assets 1_151
+  - first:
+      213: -6091389726811569803
+    second: Assets 1_152
+  - first:
+      213: -5248581970696225692
+    second: Assets 1_153
+  - first:
+      213: -4515149482998198905
+    second: Assets 1_154
+  - first:
+      213: 6165516309292603193
+    second: Assets 1_155
+  - first:
+      213: 4358342522540117003
+    second: Assets 1_156
+  - first:
+      213: 448544631077371101
+    second: Assets 1_157
+  - first:
+      213: -4286088213090746769
+    second: Assets 1_158
+  - first:
+      213: 5988238367851674540
+    second: Assets 1_159
+  - first:
+      213: -1447819826175203631
+    second: Assets 1_160
+  - first:
+      213: 7994889203690314026
+    second: Assets 1_161
+  - first:
+      213: 3489336044443348210
+    second: Assets 1_162
+  - first:
+      213: 677564504547185012
+    second: Assets 1_163
+  - first:
+      213: 4112625024810502143
+    second: Assets 1_164
+  - first:
+      213: 7529626992687788092
+    second: Assets 1_165
+  - first:
+      213: 5163315226564775296
+    second: Assets 1_166
+  - first:
+      213: 3818707667381175419
+    second: Assets 1_167
+  - first:
+      213: -7832616005023212007
+    second: Assets 1_168
+  - first:
+      213: 8181520016191269853
+    second: Assets 1_169
+  - first:
+      213: -1916517792191745370
+    second: Assets 1_170
+  - first:
+      213: 7460391044231687477
+    second: Assets 1_171
+  - first:
+      213: 1164152150882532383
+    second: Assets 1_172
+  - first:
+      213: 5732852955021300586
+    second: Assets 1_173
+  - first:
+      213: -1081072576665173736
+    second: Assets 1_174
+  - first:
+      213: 712020088405237819
+    second: Assets 1_175
+  - first:
+      213: -5926012509133510303
+    second: Assets 1_176
+  - first:
+      213: 1578584604222360320
+    second: Assets 1_177
+  - first:
+      213: -7101831548996268791
+    second: Assets 1_178
+  - first:
+      213: -2530964532479736330
+    second: Assets 1_179
+  - first:
+      213: 4926518648532877413
+    second: Assets 1_180
+  - first:
+      213: -7487001902832183906
+    second: Assets 1_181
+  - first:
+      213: 8990326448555465978
+    second: Assets 1_182
+  - first:
+      213: -3976538463618022551
+    second: Assets 1_183
+  - first:
+      213: -5682671416875788468
+    second: Assets 1_184
+  - first:
+      213: 553975935355459418
+    second: Assets 1_185
+  - first:
+      213: -7053867192011975968
+    second: Assets 1_186
+  - first:
+      213: 2927255181602590704
+    second: Assets 1_187
+  - first:
+      213: -5566159667102520962
+    second: Assets 1_188
+  - first:
+      213: -5904591887370141708
+    second: Assets 1_189
+  - first:
+      213: -7994449406187293336
+    second: Assets 1_190
+  - first:
+      213: -2125004130198291749
+    second: Assets 1_191
+  - first:
+      213: 1340114669685081785
+    second: Assets 1_192
+  - first:
+      213: -1040746796565564773
+    second: Assets 1_193
+  - first:
+      213: -3477388579823820117
+    second: Assets 1_194
+  - first:
+      213: -4372660275556360278
+    second: Assets 1_195
+  - first:
+      213: 6378901562569120258
+    second: Assets 1_196
+  - first:
+      213: 1253346026081324686
+    second: Assets 1_197
+  - first:
+      213: -1514732451603145900
+    second: Assets 1_198
+  - first:
+      213: 5822387234765279210
+    second: Assets 1_199
+  - first:
+      213: -6492680601489972542
+    second: Assets 1_200
+  - first:
+      213: -8699970165678621803
+    second: Assets 1_201
+  - first:
+      213: 5265769299471883842
+    second: Assets 1_202
+  - first:
+      213: -4394408011677515622
+    second: Assets 1_203
+  - first:
+      213: -4827539493970943897
+    second: Assets 1_204
+  - first:
+      213: 2878979081631275554
+    second: Assets 1_205
+  - first:
+      213: 1128586060424157469
+    second: Assets 1_206
+  - first:
+      213: 1314205717747797201
+    second: Assets 1_207
+  - first:
+      213: -8599240982544423839
+    second: Assets 1_208
+  - first:
+      213: -4429547531279599550
+    second: Assets 1_209
+  - first:
+      213: -3463506946052886519
+    second: Assets 1_210
+  - first:
+      213: -4039357573675182218
+    second: Assets 1_211
+  - first:
+      213: 8272204853384384560
+    second: Assets 1_212
+  - first:
+      213: -1758870417443820993
+    second: Assets 1_213
+  - first:
+      213: 6850134940748547730
+    second: Assets 1_214
+  - first:
+      213: -2745110569380699443
+    second: Assets 1_215
+  - first:
+      213: 2816057742366530750
+    second: Assets 1_216
+  - first:
+      213: 535710305137278833
+    second: Assets 1_217
+  - first:
+      213: -939698937075187350
+    second: Assets 1_218
+  - first:
+      213: -1089712156043251517
+    second: Assets 1_219
+  - first:
+      213: -274545672671554208
+    second: Assets 1_220
+  - first:
+      213: -1576257453588267832
+    second: Assets 1_221
+  - first:
+      213: -7930256244271551209
+    second: Assets 1_222
+  - first:
+      213: -240805334545167631
+    second: Assets 1_223
+  - first:
+      213: -2177964525838234081
+    second: Assets 1_224
+  - first:
+      213: 1701613590355821436
+    second: Assets 1_225
+  - first:
+      213: -1875052073020566252
+    second: Assets 1_226
+  - first:
+      213: 839751263511851073
+    second: Assets 1_227
+  - first:
+      213: -764894396348805389
+    second: Assets 1_228
+  - first:
+      213: 4480293660109877858
+    second: Assets 1_229
+  - first:
+      213: -2013223052005739049
+    second: Assets 1_230
+  - first:
+      213: 3776469225526150457
+    second: Assets 1_231
+  - first:
+      213: -6274019206163259313
+    second: Assets 1_232
+  - first:
+      213: -2279822389650104987
+    second: Assets 1_233
+  - first:
+      213: -7827618991671464866
+    second: Assets 1_234
+  - first:
+      213: -9170799008745686273
+    second: Assets 1_235
+  - first:
+      213: 3506682568075533923
+    second: Assets 1_236
+  - first:
+      213: -4103326489050879881
+    second: Assets 1_237
+  - first:
+      213: -1831968708394562123
+    second: Assets 1_238
+  - first:
+      213: 9100871093459065183
+    second: Assets 1_239
+  - first:
+      213: 2619707406744423000
+    second: Assets 1_240
+  - first:
+      213: -8931970801971063562
+    second: Assets 1_241
+  - first:
+      213: -1575936820291426931
+    second: Assets 1_242
+  - first:
+      213: 8301118730374479903
+    second: Assets 1_243
+  - first:
+      213: 6623528054696640608
+    second: Assets 1_244
+  - first:
+      213: 7153106644719694942
+    second: Assets 1_245
+  - first:
+      213: 8714758279244686669
+    second: Assets 1_246
+  - first:
+      213: 5051985901704130262
+    second: Assets 1_247
+  - first:
+      213: 4626291781908444161
+    second: Assets 1_248
+  - first:
+      213: -157057158027975257
+    second: Assets 1_249
+  - first:
+      213: -6670893501443035750
+    second: Assets 1_250
+  - first:
+      213: -4342134526788887534
+    second: Assets 1_251
+  - first:
+      213: 6551677840911488885
+    second: Assets 1_252
+  - first:
+      213: 4178943283470915701
+    second: Assets 1_253
+  - first:
+      213: -2907889352471115964
+    second: Assets 1_254
+  - first:
+      213: -6859641588810341060
+    second: Assets 1_255
+  - first:
+      213: -2003659968303046192
+    second: Assets 1_256
+  - first:
+      213: 1688690702034045219
+    second: Assets 1_257
+  - first:
+      213: 6887815188267168671
+    second: Assets 1_258
+  - first:
+      213: 3685629186362531294
+    second: Assets 1_259
+  - first:
+      213: 4347015722081898371
+    second: Assets 1_260
+  - first:
+      213: 5540934315509137713
+    second: Assets 1_261
+  - first:
+      213: 8590678503047092967
+    second: Assets 1_262
+  - first:
+      213: -5127848902087358396
+    second: Assets 1_263
+  - first:
+      213: 3395229038758046258
+    second: Assets 1_264
+  - first:
+      213: 7108080185832152346
+    second: Assets 1_265
+  - first:
+      213: -4981688925966618212
+    second: Assets 1_266
+  - first:
+      213: 1983545924843792525
+    second: Assets 1_267
+  - first:
+      213: 3322349105310293097
+    second: Assets 1_268
+  - first:
+      213: 2862959845949633166
+    second: Assets 1_269
+  - first:
+      213: -1357991258521158405
+    second: Assets 1_270
+  - first:
+      213: -7782594809578243485
+    second: Assets 1_271
+  - first:
+      213: -2378133815070400886
+    second: Assets 1_272
+  - first:
+      213: 4016821513049244238
+    second: Assets 1_273
+  - first:
+      213: -4748152143915289579
+    second: Assets 1_274
+  - first:
+      213: 2758677797845169675
+    second: Assets 1_275
+  - first:
+      213: 6771608480910201687
+    second: Assets 1_276
+  - first:
+      213: -7621572339907817856
+    second: Assets 1_277
+  - first:
+      213: -5854635666632282216
+    second: Assets 1_278
+  - first:
+      213: -4211644284558198410
+    second: Assets 1_279
+  - first:
+      213: -7373625979546111856
+    second: Assets 1_280
+  - first:
+      213: 8201143774386184712
+    second: Assets 1_281
+  - first:
+      213: 2344121668365651702
+    second: Assets 1_282
+  - first:
+      213: 2640999960449285224
+    second: Assets 1_283
+  - first:
+      213: 5713704292394361348
+    second: Assets 1_284
+  - first:
+      213: 2866102501644019358
+    second: Assets 1_285
+  - first:
+      213: 4409218180562936094
+    second: Assets 1_286
+  - first:
+      213: 674893898368851483
+    second: Assets 1_287
+  - first:
+      213: -9016000269210185111
+    second: Assets 1_288
+  - first:
+      213: -754178740209271150
+    second: Assets 1_289
+  - first:
+      213: 3346424448967440663
+    second: Assets 1_290
+  - first:
+      213: 7182609005192317435
+    second: Assets 1_291
+  - first:
+      213: -7986105552863130466
+    second: Assets 1_292
+  - first:
+      213: 5277043009559809540
+    second: Assets 1_293
+  - first:
+      213: 605171207566502957
+    second: Assets 1_294
+  - first:
+      213: 3137417596936364305
+    second: Assets 1_295
+  - first:
+      213: -6171587445167307983
+    second: Assets 1_296
+  - first:
+      213: -5832627833445762779
+    second: Assets 1_297
+  - first:
+      213: -7866685608959347010
+    second: Assets 1_298
+  - first:
+      213: 6069120350111511132
+    second: Assets 1_299
+  - first:
+      213: 245140157289553122
+    second: Assets 1_300
+  - first:
+      213: -3118737933266115349
+    second: Assets 1_301
+  - first:
+      213: 6267932368999217268
+    second: Assets 1_302
+  - first:
+      213: 2562943471364009250
+    second: Assets 1_303
+  - first:
+      213: 6495353412376897412
+    second: Assets 1_304
+  - first:
+      213: -5249811179479017237
+    second: Assets 1_305
+  - first:
+      213: 1564146317201291979
+    second: Assets 1_306
+  - first:
+      213: 764711729447174703
+    second: Assets 1_307
+  - first:
+      213: -3761217384934243996
+    second: Assets 1_308
+  - first:
+      213: -4879684271647027743
+    second: Assets 1_309
+  - first:
+      213: -4729938327254687806
+    second: Assets 1_310
+  - first:
+      213: 4222838483086821695
+    second: Assets 1_311
+  - first:
+      213: 1776324108708520143
+    second: Assets 1_312
+  - first:
+      213: 2725572862402428561
+    second: Assets 1_313
+  - first:
+      213: -1850022741614376457
+    second: Assets 1_314
+  - first:
+      213: -3704212632737587165
+    second: Assets 1_315
+  - first:
+      213: 519568498649165084
+    second: Assets 1_316
+  - first:
+      213: -2627339096870442050
+    second: Assets 1_317
+  - first:
+      213: 2091312469830421263
+    second: Assets 1_318
+  - first:
+      213: -7076730682178674978
+    second: Assets 1_319
+  - first:
+      213: -6904492884994314803
+    second: Assets 1_320
+  - first:
+      213: -5698692362674510368
+    second: Assets 1_321
+  - first:
+      213: 7441788475514588294
+    second: Assets 1_322
+  - first:
+      213: 8569141079128399615
+    second: Assets 1_323
+  - first:
+      213: -7073434385996342930
+    second: Assets 1_324
+  - first:
+      213: -9078413703568267547
+    second: Assets 1_325
+  - first:
+      213: -6337720598267641841
+    second: Assets 1_326
+  - first:
+      213: 3862401084226521628
+    second: Assets 1_327
+  - first:
+      213: 7399155850808417499
+    second: Assets 1_328
+  - first:
+      213: 7679513883519205771
+    second: Assets 1_329
+  - first:
+      213: -8060500308018344517
+    second: Assets 1_330
+  - first:
+      213: -2018229311687900725
+    second: Assets 1_331
+  - first:
+      213: 8443055006922811292
+    second: Assets 1_332
+  - first:
+      213: 5495342957639596406
+    second: Assets 1_333
+  - first:
+      213: -318498314342686940
+    second: Assets 1_334
+  - first:
+      213: -5455987215665219168
+    second: Assets 1_335
+  - first:
+      213: -8607656458437341832
+    second: Assets 1_336
+  - first:
+      213: 2088432542781913808
+    second: Assets 1_337
+  - first:
+      213: 7351296774628615436
+    second: Assets 1_338
+  - first:
+      213: 4021504338511751563
+    second: Assets 1_339
+  - first:
+      213: -1524402053685422616
+    second: Assets 1_340
+  - first:
+      213: -9215083600087124700
+    second: Assets 1_341
+  - first:
+      213: 4522980022488468994
+    second: Assets 1_342
+  - first:
+      213: -2453568991362596550
+    second: Assets 1_343
+  - first:
+      213: 1792514997847317493
+    second: Assets 1_344
+  - first:
+      213: 4121881971043416945
+    second: Assets 1_345
+  - first:
+      213: -836376442528979161
+    second: Assets 1_346
+  - first:
+      213: -4564013715231069689
+    second: Assets 1_347
+  - first:
+      213: 1832363257458863564
+    second: Assets 1_348
+  - first:
+      213: -4477023493185053054
+    second: Assets 1_349
+  - first:
+      213: -6022229384702575011
+    second: Assets 1_350
+  - first:
+      213: 401281951509269206
+    second: Assets 1_351
+  - first:
+      213: -3180673030610573561
+    second: Assets 1_352
+  - first:
+      213: -7986048046568639497
+    second: Assets 1_353
+  - first:
+      213: -1756312428902293758
+    second: Assets 1_354
+  - first:
+      213: 3419838505599683777
+    second: Assets 1_355
+  - first:
+      213: -6298313636187718360
+    second: Assets 1_356
+  - first:
+      213: 8404256268360110116
+    second: Assets 1_357
+  - first:
+      213: -8740762189129190627
+    second: Assets 1_358
+  - first:
+      213: -8684491827403354928
+    second: Assets 1_359
+  - first:
+      213: -7943889314497881217
+    second: Assets 1_360
+  - first:
+      213: -2473408140019623765
+    second: Assets 1_361
+  - first:
+      213: 4835934662877026011
+    second: Assets 1_362
+  - first:
+      213: 4281466197804590635
+    second: Assets 1_363
+  - first:
+      213: 4948734795179549678
+    second: Assets 1_364
+  - first:
+      213: 1415846633736635090
+    second: Assets 1_365
+  - first:
+      213: 4518419697189478261
+    second: Assets 1_366
+  - first:
+      213: -734989131260211431
+    second: Assets 1_367
+  - first:
+      213: -3635812964165218465
+    second: Assets 1_368
+  - first:
+      213: 7302768770180496813
+    second: Assets 1_369
+  - first:
+      213: 4280459105818837746
+    second: Assets 1_370
+  - first:
+      213: 8033641308788126304
+    second: Assets 1_371
+  - first:
+      213: -4399135440677283791
+    second: Assets 1_372
+  - first:
+      213: 4444517010432446217
+    second: Assets 1_373
+  - first:
+      213: -2944533096086297763
+    second: Assets 1_374
+  - first:
+      213: 7607714070570100794
+    second: Assets 1_375
+  - first:
+      213: 6744954763473280466
+    second: Assets 1_376
+  - first:
+      213: 4156092425606282349
+    second: Assets 1_377
+  - first:
+      213: -5184351943939931010
+    second: Assets 1_378
+  - first:
+      213: 4323652315431243481
+    second: Assets 1_379
+  - first:
+      213: 4010033143430716732
+    second: Assets 1_380
+  - first:
+      213: -6502542385130791461
+    second: Assets 1_381
+  - first:
+      213: -1496482763995744541
+    second: Assets 1_382
+  - first:
+      213: 2875204502377617715
+    second: Assets 1_383
+  - first:
+      213: -3338032768392966492
+    second: Assets 1_384
+  - first:
+      213: 3656984777267717251
+    second: Assets 1_385
+  - first:
+      213: 4698737643426775785
+    second: Assets 1_386
+  - first:
+      213: -5310842154647727981
+    second: Assets 1_387
+  - first:
+      213: -111471980799300081
+    second: Assets 1_388
+  - first:
+      213: -7445476100643934978
+    second: Assets 1_389
+  - first:
+      213: -8973184355653719657
+    second: Assets 1_390
+  - first:
+      213: 277746263840837343
+    second: Assets 1_391
+  - first:
+      213: -7874785583247165314
+    second: Assets 1_392
+  - first:
+      213: -484826850733162144
+    second: Assets 1_393
+  - first:
+      213: 9002793568016001092
+    second: Assets 1_394
+  - first:
+      213: -1554127696283162370
+    second: Assets 1_395
+  - first:
+      213: -9167641647149516337
+    second: Assets 1_396
+  - first:
+      213: -5513044535131609963
+    second: Assets 1_397
+  - first:
+      213: 7285207276455293050
+    second: Assets 1_398
+  - first:
+      213: 8001978649678548903
+    second: Assets 1_399
+  - first:
+      213: -4736400288550397363
+    second: Assets 1_400
+  - first:
+      213: -125791909683079921
+    second: Assets 1_401
+  - first:
+      213: -4468464998010238628
+    second: Assets 1_402
+  - first:
+      213: 338198460756522812
+    second: Assets 1_403
+  - first:
+      213: 8621153857562209337
+    second: Assets 1_404
+  - first:
+      213: -3161467469312797812
+    second: Assets 1_405
+  - first:
+      213: 5740882876633785614
+    second: Assets 1_406
+  - first:
+      213: 3906184523397591426
+    second: Assets 1_407
+  - first:
+      213: -7590854311075182567
+    second: Assets 1_408
+  - first:
+      213: 2672035023066207623
+    second: Assets 1_409
+  - first:
+      213: -1969022199526296022
+    second: Assets 1_410
+  - first:
+      213: 124149079978843249
+    second: Assets 1_411
+  - first:
+      213: 7848900591499079730
+    second: Assets 1_412
+  - first:
+      213: 7423007900578336058
+    second: Assets 1_413
+  - first:
+      213: -7400186196732184351
+    second: Assets 1_414
+  - first:
+      213: -6248826457981174559
+    second: Assets 1_415
+  - first:
+      213: 8467648092598439220
+    second: Assets 1_416
+  - first:
+      213: -8585028535404063404
+    second: Assets 1_417
+  - first:
+      213: -7543625663000021601
+    second: Assets 1_418
+  - first:
+      213: 8261411665313634850
+    second: Assets 1_419
+  - first:
+      213: -5857958631441931253
+    second: Assets 1_420
+  - first:
+      213: 4438587324619957021
+    second: Assets 1_421
+  - first:
+      213: -773590549335380908
+    second: Assets 1_422
+  - first:
+      213: 7662201724491309550
+    second: Assets 1_423
+  - first:
+      213: -7408796309330164417
+    second: Assets 1_424
+  - first:
+      213: -7192647505473410764
+    second: Assets 1_425
+  - first:
+      213: 6009501814261716333
+    second: Assets 1_426
+  - first:
+      213: -4323531909380997063
+    second: Assets 1_427
+  - first:
+      213: 108541257775174139
+    second: Assets 1_428
+  - first:
+      213: -3962943540821061726
+    second: Assets 1_429
+  - first:
+      213: 2535127368388319801
+    second: Assets 1_430
+  - first:
+      213: 9082346942577711579
+    second: Assets 1_431
+  - first:
+      213: 3196406786203965594
+    second: Assets 1_432
+  - first:
+      213: -2914418006022998576
+    second: Assets 1_433
+  - first:
+      213: 8546456640924298725
+    second: Assets 1_434
+  - first:
+      213: 491146091453141767
+    second: Assets 1_435
+  - first:
+      213: 214242878364423028
+    second: Assets 1_436
+  - first:
+      213: -6882252938743116351
+    second: Assets 1_437
+  - first:
+      213: 7895500521449115908
+    second: Assets 1_438
+  - first:
+      213: 2600573297099122751
+    second: Assets 1_439
+  - first:
+      213: -772887869177755716
+    second: Assets 1_440
+  - first:
+      213: -7529717992179749971
+    second: Assets 1_441
+  - first:
+      213: -8083044477437232218
+    second: Assets 1_442
+  - first:
+      213: -1790128199883441526
+    second: Assets 1_443
+  - first:
+      213: -4217866188020488899
+    second: Assets 1_444
+  - first:
+      213: -5548368135266935027
+    second: Assets 1_445
+  - first:
+      213: -3129082018272084131
+    second: Assets 1_446
+  - first:
+      213: -1299072027349785107
+    second: Assets 1_447
+  - first:
+      213: 8286453332220341602
+    second: Assets 1_448
+  - first:
+      213: 7726887577808646932
+    second: Assets 1_449
+  - first:
+      213: 2355316580418742091
+    second: Assets 1_450
+  - first:
+      213: 3699712905278574119
+    second: Assets 1_451
+  - first:
+      213: 2406701454448043204
+    second: Assets 1_452
+  - first:
+      213: -420047816504292429
+    second: Assets 1_453
+  - first:
+      213: 9111229898675323740
+    second: Assets 1_454
+  - first:
+      213: -2136587397952269056
+    second: Assets 1_455
+  - first:
+      213: -1089060901944597232
+    second: Assets 1_456
+  - first:
+      213: 8660248613046231521
+    second: Assets 1_457
+  - first:
+      213: -3778062276992645015
+    second: Assets 1_458
+  - first:
+      213: -3778671154257497066
+    second: Assets 1_459
+  - first:
+      213: -27811533842197917
+    second: Assets 1_460
+  - first:
+      213: -9219440504275752450
+    second: Assets 1_461
+  - first:
+      213: -4197208593513859129
+    second: Assets 1_462
+  - first:
+      213: -6011463835962524924
+    second: Assets 1_463
+  - first:
+      213: -43066991754191810
+    second: Assets 1_464
+  - first:
+      213: 4099890680604392203
+    second: Assets 1_465
+  - first:
+      213: 3771631281574049388
+    second: Assets 1_466
+  - first:
+      213: -1452109717524349317
+    second: Assets 1_467
+  - first:
+      213: 3321262220220843560
+    second: Assets 1_468
+  - first:
+      213: -121464974322936885
+    second: Assets 1_469
+  - first:
+      213: 5426857824760791025
+    second: Assets 1_470
+  - first:
+      213: -6620587940463728092
+    second: Assets 1_471
+  - first:
+      213: -8273004632583748389
+    second: Assets 1_472
+  - first:
+      213: -2463888082621676449
+    second: Assets 1_473
+  - first:
+      213: -7996285239823062324
+    second: Assets 1_474
+  - first:
+      213: 7173520136533851677
+    second: Assets 1_475
+  - first:
+      213: -3570984915951418993
+    second: Assets 1_476
+  - first:
+      213: -7340135585546932946
+    second: Assets 1_477
+  - first:
+      213: 557074813814794260
+    second: Assets 1_478
+  - first:
+      213: -736166545724895678
+    second: Assets 1_479
+  - first:
+      213: -6135659299014733885
+    second: Assets 1_480
+  - first:
+      213: 450598353518031715
+    second: Assets 1_481
+  - first:
+      213: -3589913662741386849
+    second: Assets 1_482
+  - first:
+      213: -1104271808965685891
+    second: Assets 1_483
+  - first:
+      213: -7276779573117785066
+    second: Assets 1_484
+  - first:
+      213: -238963950553596378
+    second: Assets 1_485
+  - first:
+      213: 6216200851402566414
+    second: Assets 1_486
+  - first:
+      213: 1025095267593668454
+    second: Assets 1_487
+  - first:
+      213: -1782823451673148808
+    second: Assets 1_488
+  - first:
+      213: 6301727271917347864
+    second: Assets 1_489
+  - first:
+      213: 6563482912284218875
+    second: Assets 1_490
+  - first:
+      213: 4537451576335704959
+    second: Assets 1_491
+  - first:
+      213: 8770736602334579801
+    second: Assets 1_492
+  - first:
+      213: -2746298942602328219
+    second: Assets 1_493
+  - first:
+      213: -7205935361269045319
+    second: Assets 1_494
+  - first:
+      213: 3946430470425620263
+    second: Assets 1_495
+  - first:
+      213: -6664743928664476633
+    second: Assets 1_496
+  - first:
+      213: 2944295694784463122
+    second: Assets 1_497
+  - first:
+      213: 3902822663169468927
+    second: Assets 1_498
+  - first:
+      213: 8129256857131363861
+    second: Assets 1_499
+  - first:
+      213: -4495260950054441136
+    second: Assets 1_500
+  - first:
+      213: -837226993516654814
+    second: Assets 1_501
+  - first:
+      213: 1969476372195088892
+    second: Assets 1_502
+  - first:
+      213: -3841214225152747781
+    second: Assets 1_503
+  - first:
+      213: -2569582487435025276
+    second: Assets 1_504
+  - first:
+      213: 1101172772512400304
+    second: Assets 1_505
+  - first:
+      213: 8857244097461221900
+    second: Assets 1_506
+  - first:
+      213: -2526780912555276606
+    second: Assets 1_507
+  - first:
+      213: -5461827592988339511
+    second: Assets 1_508
+  - first:
+      213: 6409866828937701479
+    second: Assets 1_509
+  - first:
+      213: 482575611139589448
+    second: Assets 1_510
+  - first:
+      213: 8049576827355384389
+    second: Assets 1_511
+  - first:
+      213: -7559674612903216639
+    second: Assets 1_512
+  - first:
+      213: -4866394125800192289
+    second: Assets 1_513
+  - first:
+      213: 8662782807327649325
+    second: Assets 1_514
+  - first:
+      213: 6106398729109376871
+    second: Assets 1_515
+  - first:
+      213: 6050490596168906684
+    second: Assets 1_516
+  - first:
+      213: 4538414036001918034
+    second: Assets 1_517
+  - first:
+      213: -4878625539599767911
+    second: Assets 1_518
+  - first:
+      213: -8187350041292496779
+    second: Assets 1_519
+  - first:
+      213: -1107328933981780666
+    second: Assets 1_520
+  - first:
+      213: 6681197385825724972
+    second: Assets 1_521
+  - first:
+      213: 8839510054922366794
+    second: Assets 1_522
+  - first:
+      213: 3083559333219565183
+    second: Assets 1_523
+  - first:
+      213: -5003052437724400439
+    second: Assets 1_524
+  - first:
+      213: 8234887097121648083
+    second: Assets 1_525
+  - first:
+      213: 2872165915136839288
+    second: Assets 1_526
+  - first:
+      213: -2746779099117950508
+    second: Assets 1_527
+  - first:
+      213: 6962076902880284726
+    second: Assets 1_528
+  - first:
+      213: -3784071908169242336
+    second: Assets 1_529
+  - first:
+      213: -2519230687253583142
+    second: Assets 1_530
+  - first:
+      213: 2780483624540028321
+    second: Assets 1_531
+  - first:
+      213: 3207129548090436287
+    second: Assets 1_532
+  - first:
+      213: -1217649940633547780
+    second: Assets 1_533
+  - first:
+      213: -3913127265726991721
+    second: Assets 1_534
+  - first:
+      213: 2191996463228955457
+    second: Assets 1_535
+  - first:
+      213: 7517981123925837046
+    second: Assets 1_536
+  - first:
+      213: -5274828335991488855
+    second: Assets 1_537
+  - first:
+      213: -6003585378308907170
+    second: Assets 1_538
+  - first:
+      213: -8380106977414440567
+    second: Assets 1_539
+  - first:
+      213: -6330596358208306894
+    second: Assets 1_540
+  - first:
+      213: -436334769786216358
+    second: Assets 1_541
+  - first:
+      213: -5299768617113114682
+    second: Assets 1_542
+  - first:
+      213: -709175573280557272
+    second: Assets 1_543
+  - first:
+      213: 497956567778929896
+    second: Assets 1_544
+  - first:
+      213: 2146096392167006592
+    second: Assets 1_545
+  - first:
+      213: 5389372092540287063
+    second: Assets 1_546
+  - first:
+      213: 6432266505248613369
+    second: Assets 1_547
+  - first:
+      213: 8513008779817409039
+    second: Assets 1_548
+  - first:
+      213: -6958569315937529501
+    second: Assets 1_549
+  - first:
+      213: 7025323025888578157
+    second: Assets 1_550
+  - first:
+      213: 6814667440083471579
+    second: Assets 1_551
+  - first:
+      213: 9091499921047708939
+    second: Assets 1_552
+  - first:
+      213: -2541977976642255991
+    second: Assets 1_553
+  - first:
+      213: 9039721683129483927
+    second: Assets 1_554
+  - first:
+      213: -7521890876714899925
+    second: Assets 1_555
+  - first:
+      213: 956997359193798292
+    second: Assets 1_556
+  - first:
+      213: -7294939168034616717
+    second: Assets 1_557
+  - first:
+      213: 8886920898319376562
+    second: Assets 1_558
+  - first:
+      213: 1004574271040769372
+    second: Assets 1_559
+  - first:
+      213: 7096364819064606292
+    second: Assets 1_560
+  - first:
+      213: 2017675832087187740
+    second: Assets 1_561
+  - first:
+      213: 1849493692079095763
+    second: Assets 1_562
+  - first:
+      213: 2854132543729479150
+    second: Assets 1_563
+  - first:
+      213: 7459756082680328817
+    second: Assets 1_564
+  - first:
+      213: 8258182041975127998
+    second: Assets 1_565
+  - first:
+      213: -2527496426643112135
+    second: Assets 1_566
+  - first:
+      213: -8860866549402181661
+    second: Assets 1_567
+  - first:
+      213: -2181870374471442973
+    second: Assets 1_568
+  - first:
+      213: 5395731383126839102
+    second: Assets 1_569
+  - first:
+      213: -5202322971247205553
+    second: Assets 1_570
+  - first:
+      213: -882424013600299639
+    second: Assets 1_571
+  - first:
+      213: 4675883273508983540
+    second: Assets 1_572
+  - first:
+      213: -1760613548592541249
+    second: Assets 1_573
+  - first:
+      213: -3836111174964686826
+    second: Assets 1_574
+  - first:
+      213: -8018778377026079718
+    second: Assets 1_575
+  - first:
+      213: -252807023474710304
+    second: Assets 1_576
+  - first:
+      213: -3245378175342495953
+    second: Assets 1_577
+  - first:
+      213: 6588363286102141805
+    second: Assets 1_578
+  - first:
+      213: 7319956290122176209
+    second: Assets 1_579
+  - first:
+      213: 9071015313841275632
+    second: Assets 1_580
+  - first:
+      213: -7183849793544278544
+    second: Assets 1_581
+  - first:
+      213: -6893455491676247847
+    second: Assets 1_582
+  - first:
+      213: -1203094409356119595
+    second: Assets 1_583
+  - first:
+      213: -690399692340938126
+    second: Assets 1_584
+  - first:
+      213: -413326455478385692
+    second: Assets 1_585
+  - first:
+      213: -2873351818942863010
+    second: Assets 1_586
+  - first:
+      213: 4862704449688931425
+    second: Assets 1_587
+  - first:
+      213: 6063980774216319813
+    second: Assets 1_588
+  - first:
+      213: -6255436664869029159
+    second: Assets 1_589
+  - first:
+      213: 5493177498795555122
+    second: Assets 1_590
+  - first:
+      213: -208109552134946308
+    second: Assets 1_591
+  - first:
+      213: 2771788889551082818
+    second: Assets 1_592
+  - first:
+      213: -8389941141194637898
+    second: Assets 1_593
+  - first:
+      213: 7315028596064070787
+    second: Assets 1_594
+  - first:
+      213: -6629051162532407189
+    second: Assets 1_595
+  - first:
+      213: -6486884891782785182
+    second: Assets 1_596
+  - first:
+      213: -408440024091412152
+    second: Assets 1_597
+  - first:
+      213: 2394373692801419726
+    second: Assets 1_598
+  - first:
+      213: 1946280995107392803
+    second: Assets 1_599
+  - first:
+      213: -3342341429402740882
+    second: Assets 1_600
+  - first:
+      213: -3895071378997198519
+    second: Assets 1_601
+  - first:
+      213: -785746040630672309
+    second: Assets 1_602
+  - first:
+      213: -7849807508504487776
+    second: Assets 1_603
+  - first:
+      213: -2992064020044118304
+    second: Assets 1_604
+  - first:
+      213: 4402250786250254945
+    second: Assets 1_605
+  - first:
+      213: -556392064830197628
+    second: Assets 1_606
+  - first:
+      213: -1054372179289292507
+    second: Assets 1_607
+  - first:
+      213: 389598507727143044
+    second: Assets 1_608
+  - first:
+      213: 759259481908710621
+    second: Assets 1_609
+  - first:
+      213: -2147807150424002530
+    second: Assets 1_610
+  - first:
+      213: 2869702167316411404
+    second: Assets 1_611
+  - first:
+      213: 5816539217702691193
+    second: Assets 1_612
+  - first:
+      213: 4468767040037558805
+    second: Assets 1_613
+  - first:
+      213: -1127527009161650641
+    second: Assets 1_614
+  - first:
+      213: 5263980310968250198
+    second: Assets 1_615
+  - first:
+      213: 5332902325912110726
+    second: Assets 1_616
+  - first:
+      213: -833157483565525983
+    second: Assets 1_617
+  - first:
+      213: 1331758507760917064
+    second: Assets 1_618
+  - first:
+      213: 6191196252774279290
+    second: Assets 1_619
+  - first:
+      213: -2693895836521521644
+    second: Assets 1_620
+  - first:
+      213: 4768282129801306827
+    second: Assets 1_621
+  - first:
+      213: 1764289800053430532
+    second: Assets 1_622
+  - first:
+      213: 264951138685182733
+    second: Assets 1_623
+  - first:
+      213: 5170417516982889638
+    second: Assets 1_624
+  - first:
+      213: 3086320534000022728
+    second: Assets 1_625
+  - first:
+      213: -892242562366191805
+    second: Assets 1_626
+  - first:
+      213: 2339049173580272057
+    second: Assets 1_627
+  - first:
+      213: 5561722156462197468
+    second: Assets 1_628
+  - first:
+      213: 4244083441950400501
+    second: Assets 1_629
+  - first:
+      213: 2595344604722381210
+    second: Assets 1_630
+  - first:
+      213: 507858365787189198
+    second: Assets 1_631
+  - first:
+      213: 2687422055420547687
+    second: Assets 1_632
+  - first:
+      213: 210976284278406449
+    second: Assets 1_633
+  - first:
+      213: 8202006522774149879
+    second: Assets 1_634
+  - first:
+      213: -2583076460621356895
+    second: Assets 1_635
+  - first:
+      213: 2502297459803310706
+    second: Assets 1_636
+  - first:
+      213: 8285655481221623743
+    second: Assets 1_637
+  - first:
+      213: -1287634397539465632
+    second: Assets 1_638
+  - first:
+      213: 2858261988371228624
+    second: Assets 1_639
+  - first:
+      213: -2969776729544154495
+    second: Assets 1_640
+  - first:
+      213: -5869778750863343678
+    second: Assets 1_641
+  - first:
+      213: 4029037334576175982
+    second: Assets 1_642
+  - first:
+      213: -4070102176459504467
+    second: Assets 1_643
+  - first:
+      213: 4173453186523243901
+    second: Assets 1_644
+  - first:
+      213: -9087718258810821706
+    second: Assets 1_645
+  - first:
+      213: -9030987730213444326
+    second: Assets 1_646
+  - first:
+      213: -4195407105181209041
+    second: Assets 1_647
+  - first:
+      213: 928515067412553204
+    second: Assets 1_648
+  - first:
+      213: 9105472087425352187
+    second: Assets 1_649
+  - first:
+      213: 6134204015364023555
+    second: Assets 1_650
+  - first:
+      213: 817188928147755874
+    second: Assets 1_651
+  - first:
+      213: 8459799599660714155
+    second: Assets 1_652
+  - first:
+      213: -884990521541859979
+    second: Assets 1_653
+  - first:
+      213: 656432507165000971
+    second: Assets 1_654
+  - first:
+      213: -3608957869383273242
+    second: Assets 1_655
+  - first:
+      213: 6649190564874361810
+    second: Assets 1_656
+  - first:
+      213: -2532170817762338798
+    second: Assets 1_657
+  - first:
+      213: 6840617837552649291
+    second: Assets 1_658
+  - first:
+      213: -6258446156945759423
+    second: Assets 1_659
+  - first:
+      213: -2344265249551377477
+    second: Assets 1_660
+  - first:
+      213: -4552950042036537404
+    second: Assets 1_661
+  - first:
+      213: -7128048546436708302
+    second: Assets 1_662
+  - first:
+      213: -4334270125297500849
+    second: Assets 1_663
+  - first:
+      213: -2868162409167301603
+    second: Assets 1_664
+  - first:
+      213: -8279107394242464016
+    second: Assets 1_665
+  - first:
+      213: 8437329043302420203
+    second: Assets 1_666
+  - first:
+      213: -8623077002988389938
+    second: Assets 1_667
+  - first:
+      213: 6338011896977874092
+    second: Assets 1_668
+  - first:
+      213: -2777121503721499756
+    second: Assets 1_669
+  - first:
+      213: -3052706331594580220
+    second: Assets 1_670
+  - first:
+      213: -5748163207699815509
+    second: Assets 1_671
+  - first:
+      213: 5071569789830820894
+    second: Assets 1_672
+  - first:
+      213: -5563188671734939146
+    second: Assets 1_673
+  - first:
+      213: -9170376113211177054
+    second: Assets 1_674
+  - first:
+      213: 8746336457868203751
+    second: Assets 1_675
+  - first:
+      213: 5948265991408261313
+    second: Assets 1_676
+  - first:
+      213: -3814644320864454715
+    second: Assets 1_677
+  - first:
+      213: -2526554762968355701
+    second: Assets 1_678
+  - first:
+      213: -6350483058039476865
+    second: Assets 1_679
+  - first:
+      213: 238297541180517655
+    second: Assets 1_680
+  - first:
+      213: -8597383404665667423
+    second: Assets 1_681
+  - first:
+      213: -8304255521972256855
+    second: Assets 1_682
+  - first:
+      213: 5642579103832142252
+    second: Assets 1_683
+  - first:
+      213: -4370529841327650230
+    second: Assets 1_684
+  - first:
+      213: 717816850625963775
+    second: Assets 1_685
+  - first:
+      213: 5915181004384698572
+    second: Assets 1_686
+  - first:
+      213: -917332047415549385
+    second: Assets 1_687
+  - first:
+      213: 3781984032649215728
+    second: Assets 1_688
+  - first:
+      213: 6290786636934756829
+    second: Assets 1_689
+  - first:
+      213: -8355836740516443963
+    second: Assets 1_690
+  - first:
+      213: -6547593154643456351
+    second: Assets 1_691
+  - first:
+      213: -3623545139436246142
+    second: Assets 1_692
+  - first:
+      213: 5317455898265689545
+    second: Assets 1_693
+  - first:
+      213: -30236661840980287
+    second: Assets 1_694
+  - first:
+      213: -4523004885671476288
+    second: Assets 1_695
+  - first:
+      213: -125463672330732408
+    second: Assets 1_696
+  - first:
+      213: -8710834311557783144
+    second: Assets 1_697
+  - first:
+      213: -5716038071543669109
+    second: Assets 1_698
+  - first:
+      213: -5679021449883452498
+    second: Assets 1_699
+  - first:
+      213: -6769509539725818726
+    second: Assets 1_700
+  - first:
+      213: -8898827124778138479
+    second: Assets 1_701
+  - first:
+      213: 1308410346747947524
+    second: Assets 1_702
+  - first:
+      213: -5617549804712211980
+    second: Assets 1_703
+  - first:
+      213: -9064678553898973737
+    second: Assets 1_704
+  - first:
+      213: -3572532866193179396
+    second: Assets 1_705
+  - first:
+      213: -200028501084533637
+    second: Assets 1_706
+  - first:
+      213: 6961779127179488612
+    second: Assets 1_707
+  - first:
+      213: -7920610057207030372
+    second: Assets 1_708
+  - first:
+      213: -1847342363963968848
+    second: Assets 1_709
+  - first:
+      213: 1634320365155014294
+    second: Assets 1_710
+  - first:
+      213: -7045965707556440250
+    second: Assets 1_711
+  - first:
+      213: -7963713197043932947
+    second: Assets 1_712
+  - first:
+      213: -6415519754046762536
+    second: Assets 1_713
+  - first:
+      213: 4262550628100758489
+    second: Assets 1_714
+  - first:
+      213: -6959993823581286158
+    second: Assets 1_715
+  - first:
+      213: -5284346996801211525
+    second: Assets 1_716
+  - first:
+      213: 5098829892269666089
+    second: Assets 1_717
+  - first:
+      213: -3423656228310097974
+    second: Assets 1_718
+  - first:
+      213: -8206705526687550782
+    second: Assets 1_719
+  - first:
+      213: 7507313622164447695
+    second: Assets 1_720
+  - first:
+      213: 912689444314903690
+    second: Assets 1_721
+  - first:
+      213: -9054911609004584192
+    second: Assets 1_722
+  - first:
+      213: 6304172621032870896
+    second: Assets 1_723
+  - first:
+      213: -2111229103599658073
+    second: Assets 1_724
+  - first:
+      213: -3626396473839034144
+    second: Assets 1_725
+  - first:
+      213: -585225667287661221
+    second: Assets 1_726
+  - first:
+      213: -7014425193042514281
+    second: Assets 1_727
+  - first:
+      213: 3338671323041757132
+    second: Assets 1_728
+  - first:
+      213: -1514879662843075812
+    second: Assets 1_729
+  - first:
+      213: -7848910075652872838
+    second: Assets 1_730
+  - first:
+      213: 7120693706619625404
+    second: Assets 1_731
+  - first:
+      213: -6841576654863503262
+    second: Assets 1_732
+  - first:
+      213: 2902435403994015135
+    second: Assets 1_733
+  - first:
+      213: 3434281039944729516
+    second: Assets 1_734
+  - first:
+      213: -3569976754650163823
+    second: Assets 1_735
+  - first:
+      213: 6889182686775309092
+    second: Assets 1_736
+  - first:
+      213: -5227034435714698723
+    second: Assets 1_737
+  - first:
+      213: 4933116857776370020
+    second: Assets 1_738
+  - first:
+      213: 5299585390346175058
+    second: Assets 1_739
+  - first:
+      213: 8360187034795010158
+    second: Assets 1_740
+  - first:
+      213: -920357689087447571
+    second: Assets 1_741
+  - first:
+      213: -8228310193912349028
+    second: Assets 1_742
+  - first:
+      213: 8834609530801073994
+    second: Assets 1_743
+  - first:
+      213: 8974303960862089546
+    second: Assets 1_744
+  - first:
+      213: 2116579494461136423
+    second: Assets 1_745
+  - first:
+      213: -9135069335396541253
+    second: Assets 1_746
+  - first:
+      213: 379203139558600980
+    second: Assets 1_747
+  - first:
+      213: 499376701552806595
+    second: Assets 1_748
+  - first:
+      213: -1869149818154653636
+    second: Assets 1_749
+  - first:
+      213: 7870142915575835854
+    second: Assets 1_750
+  - first:
+      213: 3793678028006889695
+    second: Assets 1_751
+  - first:
+      213: 3632854401305239972
+    second: Assets 1_752
+  - first:
+      213: 2962699799745248739
+    second: Assets 1_753
+  - first:
+      213: -593221869650848665
+    second: Assets 1_754
+  - first:
+      213: -1347670543318869893
+    second: Assets 1_755
+  - first:
+      213: -2534426322746331986
+    second: Assets 1_756
+  - first:
+      213: 550205181138704429
+    second: Assets 1_757
+  - first:
+      213: -234343464767770628
+    second: Assets 1_758
+  - first:
+      213: 6575145086579117533
+    second: Assets 1_759
+  - first:
+      213: 6702214958854404733
+    second: Assets 1_760
+  - first:
+      213: 2899486520411843564
+    second: Assets 1_761
+  - first:
+      213: -3391943505846392329
+    second: Assets 1_762
+  - first:
+      213: 900040100351976501
+    second: Assets 1_763
+  - first:
+      213: -6447668531152087046
+    second: Assets 1_764
+  - first:
+      213: 7208145375052943575
+    second: Assets 1_765
+  - first:
+      213: 284548139586790550
+    second: Assets 1_766
+  - first:
+      213: 7365222903596235802
+    second: Assets 1_767
+  - first:
+      213: 7443124115092794824
+    second: Assets 1_768
+  - first:
+      213: 4404628577488143065
+    second: Assets 1_769
+  - first:
+      213: 8901054517072923103
+    second: Assets 1_770
+  - first:
+      213: 5174262770241219972
+    second: Assets 1_771
+  - first:
+      213: 7022206527564278911
+    second: Assets 1_772
+  - first:
+      213: 511310127380626537
+    second: Assets 1_773
+  - first:
+      213: 1348624803508524915
+    second: Assets 1_774
+  - first:
+      213: -4371310349386563582
+    second: Assets 1_775
+  - first:
+      213: 6325193311982012974
+    second: Assets 1_776
+  - first:
+      213: -1597556623963657510
+    second: Assets 1_777
+  - first:
+      213: 3087605025861885492
+    second: Assets 1_778
+  - first:
+      213: -1922171327230725665
+    second: Assets 1_779
+  - first:
+      213: -2883332911092668794
+    second: Assets 1_780
+  - first:
+      213: 698754642335138457
+    second: Assets 1_781
+  - first:
+      213: 6948501743556785512
+    second: Assets 1_782
+  - first:
+      213: 2208567514371568328
+    second: Assets 1_783
+  - first:
+      213: 682260214715742664
+    second: Assets 1_784
+  - first:
+      213: 30128837269910014
+    second: Assets 1_785
+  - first:
+      213: -6372551002087843494
+    second: Assets 1_786
+  - first:
+      213: -4023270199513720365
+    second: Assets 1_787
+  - first:
+      213: 776562204632711416
+    second: Assets 1_788
+  - first:
+      213: 313084866623291087
+    second: Assets 1_789
+  - first:
+      213: 8214179745434309815
+    second: Assets 1_790
+  - first:
+      213: -6604686494310612792
+    second: Assets 1_791
+  - first:
+      213: 3424985731599784843
+    second: Assets 1_792
+  - first:
+      213: -4034118499974297197
+    second: Assets 1_793
+  - first:
+      213: 1315201462288921592
+    second: Assets 1_794
+  - first:
+      213: 4030831341284691971
+    second: Assets 1_795
+  - first:
+      213: 6479576343164728518
+    second: Assets 1_796
+  - first:
+      213: -5489302780857241041
+    second: Assets 1_797
+  - first:
+      213: 648069080375349666
+    second: Assets 1_798
+  - first:
+      213: -3373467935545824821
+    second: Assets 1_799
+  - first:
+      213: -1747703623129134874
+    second: Assets 1_800
+  - first:
+      213: 5680751989136755069
+    second: Assets 1_801
+  - first:
+      213: 947299903571874447
+    second: Assets 1_802
+  - first:
+      213: 2257043820943171717
+    second: Assets 1_803
+  - first:
+      213: -6979468608193542390
+    second: Assets 1_804
+  - first:
+      213: 2499353587875376891
+    second: Assets 1_805
+  - first:
+      213: -4469448573068645719
+    second: Assets 1_806
+  - first:
+      213: 2802540328176535434
+    second: Assets 1_807
+  - first:
+      213: -9065547879649341915
+    second: Assets 1_808
+  - first:
+      213: -8033714159003441626
+    second: Assets 1_809
+  - first:
+      213: 5579056967299085900
+    second: Assets 1_810
+  - first:
+      213: 8951307394141805092
+    second: Assets 1_811
+  - first:
+      213: -6896302726654092939
+    second: Assets 1_812
+  - first:
+      213: 2106191290977582641
+    second: Assets 1_813
+  - first:
+      213: 1366016536130805635
+    second: Assets 1_814
+  - first:
+      213: 6456819265115380785
+    second: Assets 1_815
+  - first:
+      213: -8658061557113050455
+    second: Assets 1_816
+  - first:
+      213: -5328561987532342219
+    second: Assets 1_817
+  - first:
+      213: 1692286110297583355
+    second: Assets 1_818
+  - first:
+      213: 7414237829425826769
+    second: Assets 1_819
+  - first:
+      213: 6925602753102454727
+    second: Assets 1_820
+  - first:
+      213: 5953216467931313521
+    second: Assets 1_821
+  - first:
+      213: 7068747381669247565
+    second: Assets 1_822
+  - first:
+      213: 3062704935106762317
+    second: Assets 1_823
+  - first:
+      213: -4179876431437574109
+    second: Assets 1_824
+  - first:
+      213: 3613181721153678009
+    second: Assets 1_825
+  - first:
+      213: -4904140167965711232
+    second: Assets 1_826
+  - first:
+      213: 7649451664750603102
+    second: Assets 1_827
+  - first:
+      213: 1819620505339747324
+    second: Assets 1_828
+  - first:
+      213: 2927583226221376160
+    second: Assets 1_829
+  - first:
+      213: -8882911975314027836
+    second: Assets 1_830
+  - first:
+      213: -3986095646408607378
+    second: Assets 1_831
+  - first:
+      213: 8992318716347867323
+    second: Assets 1_832
+  - first:
+      213: -2259946101960802694
+    second: Assets 1_833
+  - first:
+      213: 6467158484660289251
+    second: Assets 1_834
+  - first:
+      213: -2500287178045957421
+    second: Assets 1_835
+  - first:
+      213: 8462627564022508403
+    second: Assets 1_836
+  - first:
+      213: -7443490820653002893
+    second: Assets 1_837
+  - first:
+      213: 7961216730664734459
+    second: Assets 1_838
+  - first:
+      213: -2769321886629475211
+    second: Assets 1_839
+  - first:
+      213: -2520728570182209727
+    second: Assets 1_840
+  - first:
+      213: 3787616215316149552
+    second: Assets 1_841
+  - first:
+      213: 5623597495659443609
+    second: Assets 1_842
+  - first:
+      213: -4738443825221336892
+    second: Assets 1_843
+  - first:
+      213: 5493450570422019715
+    second: Assets 1_844
+  - first:
+      213: 2806898804099108559
+    second: Assets 1_845
+  - first:
+      213: -3179157127343003352
+    second: Assets 1_846
+  - first:
+      213: 5902151796205519165
+    second: Assets 1_847
+  - first:
+      213: -4470558941012504333
+    second: Assets 1_848
+  - first:
+      213: -7982452755862135286
+    second: Assets 1_849
+  - first:
+      213: -8340295621354339878
+    second: Assets 1_850
+  - first:
+      213: -7262280521248332297
+    second: Assets 1_851
+  - first:
+      213: 6184044454731030281
+    second: Assets 1_852
+  - first:
+      213: -8017276641277598597
+    second: Assets 1_853
+  - first:
+      213: 4503527990850854827
+    second: Assets 1_854
+  - first:
+      213: -226496722908027149
+    second: Assets 1_855
+  - first:
+      213: 2502743317713371235
+    second: Assets 1_856
+  - first:
+      213: 5158259599611022192
+    second: Assets 1_857
+  - first:
+      213: 5477421084869538927
+    second: Assets 1_858
+  - first:
+      213: -9047079599076694424
+    second: Assets 1_859
+  - first:
+      213: 6481715088427654520
+    second: Assets 1_860
+  - first:
+      213: 7627419864033175640
+    second: Assets 1_861
+  - first:
+      213: -8385458943170965054
+    second: Assets 1_862
+  - first:
+      213: -2673053954786950132
+    second: Assets 1_863
+  - first:
+      213: -3474617438479339720
+    second: Assets 1_864
+  - first:
+      213: -6976172843869050959
+    second: Assets 1_865
+  - first:
+      213: 8119438038711045055
+    second: Assets 1_866
+  - first:
+      213: -3191009337979088023
+    second: Assets 1_867
+  - first:
+      213: -3244843087239206453
+    second: Assets 1_868
+  - first:
+      213: 559404595135004750
+    second: Assets 1_869
+  - first:
+      213: 9080303293571841903
+    second: Assets 1_870
+  - first:
+      213: -8955331689337141328
+    second: Assets 1_871
+  - first:
+      213: -3254885929400183216
+    second: Assets 1_872
+  - first:
+      213: -8787320803051672091
+    second: Assets 1_873
+  - first:
+      213: -3551444549053100227
+    second: Assets 1_874
+  - first:
+      213: -7278745666748453667
+    second: Assets 1_875
+  - first:
+      213: 8692597952531655208
+    second: Assets 1_876
+  - first:
+      213: -5151858652286330680
+    second: Assets 1_877
+  - first:
+      213: -1277809593835963505
+    second: Assets 1_878
+  - first:
+      213: -2463995534059776590
+    second: Assets 1_879
+  - first:
+      213: 1766493941029606560
+    second: Assets 1_880
+  - first:
+      213: -5552209556957815728
+    second: Assets 1_881
+  - first:
+      213: 3374606442154064420
+    second: Assets 1_882
+  - first:
+      213: -5118005621397942481
+    second: Assets 1_883
+  - first:
+      213: -8298997677439919430
+    second: Assets 1_884
+  - first:
+      213: -1600144378624456955
+    second: Assets 1_885
+  - first:
+      213: 2446145920339363477
+    second: Assets 1_886
+  - first:
+      213: -7678604357125578574
+    second: Assets 1_887
+  - first:
+      213: 7875487508694556388
+    second: Assets 1_888
+  - first:
+      213: 8343375818970125975
+    second: Assets 1_889
+  - first:
+      213: -646044957478761120
+    second: Assets 1_890
+  - first:
+      213: -5711458936407510078
+    second: Assets 1_891
+  - first:
+      213: -9018249673993179395
+    second: Assets 1_892
+  - first:
+      213: -3592018604606016528
+    second: Assets 1_893
+  - first:
+      213: 4365597473039299762
+    second: Assets 1_894
+  - first:
+      213: 4529839302152471808
+    second: Assets 1_895
+  - first:
+      213: 7175905725840536418
+    second: Assets 1_896
+  - first:
+      213: 2261976894092984186
+    second: Assets 1_897
+  - first:
+      213: -6458677993338510910
+    second: Assets 1_898
+  - first:
+      213: 8128054863161867495
+    second: Assets 1_899
+  - first:
+      213: 5815932887079324101
+    second: Assets 1_900
+  - first:
+      213: -6439089107388711253
+    second: Assets 1_901
+  - first:
+      213: 7802269948395880
+    second: Assets 1_902
+  - first:
+      213: 3936945701140397279
+    second: Assets 1_903
+  - first:
+      213: 291365570382671491
+    second: Assets 1_904
+  - first:
+      213: 4287084047011902267
+    second: Assets 1_905
+  - first:
+      213: -7069832660470846405
+    second: Assets 1_906
+  - first:
+      213: 4020067794001813886
+    second: Assets 1_907
+  - first:
+      213: -2520111233474646570
+    second: Assets 1_908
+  - first:
+      213: -703094868865991388
+    second: Assets 1_909
+  - first:
+      213: 8419385849339639492
+    second: Assets 1_910
+  - first:
+      213: -7380800789568981022
+    second: Assets 1_911
+  - first:
+      213: 8019239090165221429
+    second: Assets 1_912
+  - first:
+      213: -6095097200527845057
+    second: Assets 1_913
+  - first:
+      213: -5796464678745987407
+    second: Assets 1_914
+  - first:
+      213: -8539435499137413009
+    second: Assets 1_915
+  - first:
+      213: 3795016798003386220
+    second: Assets 1_916
+  - first:
+      213: -1637344731216786360
+    second: Assets 1_917
+  - first:
+      213: -4492024819444758257
+    second: Assets 1_918
+  - first:
+      213: 8815835370342878500
+    second: Assets 1_919
+  - first:
+      213: 9009805334319440176
+    second: Assets 1_920
+  - first:
+      213: 940733187470441176
+    second: Assets 1_921
+  - first:
+      213: 624918717486444746
+    second: Assets 1_922
+  - first:
+      213: -5857888821767359686
+    second: Assets 1_923
+  - first:
+      213: 6577787720783719026
+    second: Assets 1_924
+  - first:
+      213: 3202177479595906525
+    second: Assets 1_925
+  - first:
+      213: 289724672719361855
+    second: Assets 1_926
+  - first:
+      213: 4235203631298018032
+    second: Assets 1_927
+  - first:
+      213: 6986695088186357415
+    second: Assets 1_928
+  - first:
+      213: -7327528069955334150
+    second: Assets 1_929
+  - first:
+      213: -6261787572081023787
+    second: Assets 1_930
+  - first:
+      213: -8308038628707866083
+    second: Assets 1_931
+  - first:
+      213: 4192753930415403114
+    second: Assets 1_932
+  - first:
+      213: -7527820296875312195
+    second: Assets 1_933
+  - first:
+      213: -3017493123685783498
+    second: Assets 1_934
+  - first:
+      213: 6234256637450968911
+    second: Assets 1_935
+  - first:
+      213: 7798254142050897062
+    second: Assets 1_936
+  - first:
+      213: 7259462437564742423
+    second: Assets 1_937
+  - first:
+      213: -3574267310123687315
+    second: Assets 1_938
+  - first:
+      213: -1969009295566222230
+    second: Assets 1_939
+  - first:
+      213: 8921714461650966555
+    second: Assets 1_940
+  - first:
+      213: 7169096624550406628
+    second: Assets 1_941
+  - first:
+      213: 5665256231117590730
+    second: Assets 1_942
+  - first:
+      213: -5579453408160227049
+    second: Assets 1_943
+  - first:
+      213: 8374689755172701178
+    second: Assets 1_944
+  - first:
+      213: -8446245524421516838
+    second: Assets 1_945
+  - first:
+      213: -3846080069936581460
+    second: Assets 1_946
+  - first:
+      213: 6115043106559661489
+    second: Assets 1_947
+  - first:
+      213: -5910595641019942999
+    second: Assets 1_948
+  - first:
+      213: -6195272833811912095
+    second: Assets 1_949
+  - first:
+      213: -648196194626208076
+    second: Assets 1_950
+  - first:
+      213: -6656275166541081648
+    second: Assets 1_951
+  - first:
+      213: -2256265111234668043
+    second: Assets 1_952
+  - first:
+      213: -7209374703286985616
+    second: Assets 1_953
+  - first:
+      213: -7348888657297670065
+    second: Assets 1_954
+  - first:
+      213: -4745639331364197766
+    second: Assets 1_955
+  - first:
+      213: 2904925450802322009
+    second: Assets 1_956
+  - first:
+      213: -248276205497671533
+    second: Assets 1_957
+  - first:
+      213: -1010704939401897789
+    second: Assets 1_958
+  - first:
+      213: 3898833827093172175
+    second: Assets 1_959
+  - first:
+      213: -1557517084945824647
+    second: Assets 1_960
+  - first:
+      213: 5741704823858312762
+    second: Assets 1_961
+  - first:
+      213: -3304485033990042321
+    second: Assets 1_962
+  - first:
+      213: 4839359730923298051
+    second: Assets 1_963
+  - first:
+      213: 7934936825043200069
+    second: Assets 1_964
+  - first:
+      213: -6690505159414258357
+    second: Assets 1_965
+  - first:
+      213: -715595570623667174
+    second: Assets 1_966
+  - first:
+      213: 252698915039043936
+    second: Assets 1_967
+  - first:
+      213: 3860655287362371387
+    second: Assets 1_968
+  - first:
+      213: -8499415883265901632
+    second: Assets 1_969
+  - first:
+      213: 4621295301223023068
+    second: Assets 1_970
+  - first:
+      213: -5041346057734666778
+    second: Assets 1_971
+  - first:
+      213: 4688931207440088034
+    second: Assets 1_972
+  - first:
+      213: -9153622726479992387
+    second: Assets 1_973
+  - first:
+      213: 6190111184607913847
+    second: Assets 1_974
+  - first:
+      213: -2522000437237551945
+    second: Assets 1_975
+  - first:
+      213: -5030034519815696837
+    second: Assets 1_976
+  - first:
+      213: 4955346390217052298
+    second: Assets 1_977
+  - first:
+      213: -3848678006825957414
+    second: Assets 1_978
+  - first:
+      213: 5401662386493802422
+    second: Assets 1_979
+  - first:
+      213: 8782875568510930000
+    second: Assets 1_980
+  - first:
+      213: 6540568180332699237
+    second: Assets 1_981
+  - first:
+      213: 7375996156030532259
+    second: Assets 1_982
+  - first:
+      213: -7290289543850953076
+    second: Assets 1_983
+  - first:
+      213: -1344168087117940427
+    second: Assets 1_984
+  - first:
+      213: 1026938943213236614
+    second: Assets 1_985
+  - first:
+      213: 4095482429374108824
+    second: Assets 1_986
+  - first:
+      213: -6233848566647155269
+    second: Assets 1_987
+  - first:
+      213: 1627118711113424904
+    second: Assets 1_988
+  - first:
+      213: 6339741134877463541
+    second: Assets 1_989
+  - first:
+      213: 5681644585735102982
+    second: Assets 1_990
+  - first:
+      213: 2507147610181662266
+    second: Assets 1_991
+  - first:
+      213: 1223958321097730821
+    second: Assets 1_992
+  - first:
+      213: -9048886561322282942
+    second: Assets 1_993
+  - first:
+      213: -4403074616312330
+    second: Assets 1_994
+  - first:
+      213: 85671137194162868
+    second: Assets 1_995
+  - first:
+      213: 2389551079995453970
+    second: Assets 1_996
+  - first:
+      213: 7084801286431182115
+    second: Assets 1_997
+  - first:
+      213: -7649162078921321449
+    second: Assets 1_998
+  - first:
+      213: 8961246382384459819
+    second: Assets 1_999
+  - first:
+      213: 2831843774330589821
+    second: Assets 1_1000
+  - first:
+      213: -6974965530559961188
+    second: Assets 1_1001
+  - first:
+      213: 501543534666101078
+    second: Assets 1_1002
+  - first:
+      213: -7165084432950736187
+    second: Assets 1_1003
+  - first:
+      213: -6601398985245465702
+    second: Assets 1_1004
+  - first:
+      213: 2304866095935138136
+    second: Assets 1_1005
+  - first:
+      213: -4136116316744904212
+    second: Assets 1_1006
+  - first:
+      213: -7013993445333305040
+    second: Assets 1_1007
+  - first:
+      213: 4166144145886974756
+    second: Assets 1_1008
+  - first:
+      213: -6124092594871193178
+    second: Assets 1_1009
+  - first:
+      213: -6096835359741123626
+    second: Assets 1_1010
+  - first:
+      213: 316759530002261265
+    second: Assets 1_1011
+  - first:
+      213: -7958680610118761015
+    second: Assets 1_1012
+  - first:
+      213: 7882382951101706036
+    second: Assets 1_1013
+  - first:
+      213: 8978790504075638044
+    second: Assets 1_1014
+  - first:
+      213: -585888594529564712
+    second: Assets 1_1015
+  - first:
+      213: 8840659983173474068
+    second: Assets 1_1016
+  - first:
+      213: -4517422189634488616
+    second: Assets 1_1017
+  - first:
+      213: -2569751035384815767
+    second: Assets 1_1018
+  - first:
+      213: -6427650091596961928
+    second: Assets 1_1019
+  - first:
+      213: -5975714357979313642
+    second: Assets 1_1020
+  - first:
+      213: -5465207044876965880
+    second: Assets 1_1021
+  - first:
+      213: 9198131218526265735
+    second: Assets 1_1022
+  - first:
+      213: 1761069390492459527
+    second: Assets 1_1023
+  - first:
+      213: -3779238575843732483
+    second: Assets 1_1024
+  - first:
+      213: -322440165577323922
+    second: Assets 1_1025
+  - first:
+      213: -5698176781176281128
+    second: Assets 1_1026
+  - first:
+      213: -9130500227531789654
+    second: Assets 1_1027
+  - first:
+      213: 593760941424678298
+    second: Assets 1_1028
+  - first:
+      213: -3063493050806484256
+    second: Assets 1_1029
+  - first:
+      213: 6175561335700428399
+    second: Assets 1_1030
+  - first:
+      213: -1964567870941507247
+    second: Assets 1_1031
+  - first:
+      213: -9089628739313603507
+    second: Assets 1_1032
+  - first:
+      213: -8171991985836252180
+    second: Assets 1_1033
+  - first:
+      213: 783620821883721315
+    second: Assets 1_1034
+  - first:
+      213: 4287324803113278462
+    second: Assets 1_1035
+  - first:
+      213: 3210902017929635358
+    second: Assets 1_1036
+  - first:
+      213: 2048319647061852646
+    second: Assets 1_1037
+  - first:
+      213: -8517094848618513846
+    second: Assets 1_1038
+  - first:
+      213: -9210532623011066556
+    second: Assets 1_1039
+  - first:
+      213: 7963747252217899256
+    second: Assets 1_1040
+  - first:
+      213: -4124197964307006114
+    second: Assets 1_1041
+  - first:
+      213: -1664107732559748360
+    second: Assets 1_1042
+  - first:
+      213: 1405846145434869721
+    second: Assets 1_1043
+  - first:
+      213: -1895139618994547797
+    second: Assets 1_1044
+  - first:
+      213: -2538758667473231173
+    second: Assets 1_1045
+  - first:
+      213: 9130333028275741716
+    second: Assets 1_1046
+  - first:
+      213: 5261841808339806532
+    second: Assets 1_1047
+  - first:
+      213: -123969677950720863
+    second: Assets 1_1048
+  - first:
+      213: 8690148261183557304
+    second: Assets 1_1049
+  - first:
+      213: -7836465847589611426
+    second: Assets 1_1050
+  - first:
+      213: -6673244780547195203
+    second: Assets 1_1051
+  - first:
+      213: 2928830755555308336
+    second: Assets 1_1052
+  - first:
+      213: -325948413283348438
+    second: Assets 1_1053
+  - first:
+      213: 4557707181628614917
+    second: Assets 1_1054
+  - first:
+      213: 6980133098837476118
+    second: Assets 1_1055
+  - first:
+      213: -5111465163486724307
+    second: Assets 1_1056
+  - first:
+      213: 1575188017556304318
+    second: Assets 1_1057
+  - first:
+      213: -4788761359309263837
+    second: Assets 1_1058
+  - first:
+      213: 2539237470217638222
+    second: Assets 1_1059
+  - first:
+      213: 7375966058782247978
+    second: Assets 1_1060
+  - first:
+      213: -3499455022639878981
+    second: Assets 1_1061
+  - first:
+      213: 2031547278655075453
+    second: Assets 1_1062
+  - first:
+      213: -1862404730410231248
+    second: Assets 1_1063
+  - first:
+      213: -9212435193239242937
+    second: Assets 1_1064
+  - first:
+      213: -6843506455912792341
+    second: Assets 1_1065
+  - first:
+      213: 414944008829537754
+    second: Assets 1_1066
+  - first:
+      213: -1030862260979707721
+    second: Assets 1_1067
+  - first:
+      213: -3932273338100567224
+    second: Assets 1_1068
+  - first:
+      213: -1704414235141999883
+    second: Assets 1_1069
+  - first:
+      213: -3400290170776056330
+    second: Assets 1_1070
+  - first:
+      213: 7576531792905209678
+    second: Assets 1_1071
+  - first:
+      213: -2187069844002759095
+    second: Assets 1_1072
+  - first:
+      213: -7247269108847101712
+    second: Assets 1_1073
+  - first:
+      213: -2350228888063591011
+    second: Assets 1_1074
+  - first:
+      213: -8311355025279560782
+    second: Assets 1_1075
+  - first:
+      213: 4422602489810591761
+    second: Assets 1_1076
+  - first:
+      213: -4974761618581584298
+    second: Assets 1_1077
+  - first:
+      213: -7903496404499653917
+    second: Assets 1_1078
+  - first:
+      213: 3740455065096685501
+    second: Assets 1_1079
+  - first:
+      213: 4904590678798616271
+    second: Assets 1_1080
+  - first:
+      213: -1371500582170358700
+    second: Assets 1_1081
+  - first:
+      213: 4509834397632423203
+    second: Assets 1_1082
+  - first:
+      213: 6870010077034775828
+    second: Assets 1_1083
+  - first:
+      213: -1964170543739857575
+    second: Assets 1_1084
+  - first:
+      213: 6139419408764819295
+    second: Assets 1_1085
+  - first:
+      213: 5452829104726864487
+    second: Assets 1_1086
+  - first:
+      213: -2963122187674019856
+    second: Assets 1_1087
+  - first:
+      213: -5528513283612200514
+    second: Assets 1_1088
+  - first:
+      213: -6407048470293432141
+    second: Assets 1_1089
+  - first:
+      213: 4630626983363503854
+    second: Assets 1_1090
+  - first:
+      213: -3457358805928332308
+    second: Assets 1_1091
+  - first:
+      213: 2762349984533558451
+    second: Assets 1_1092
+  - first:
+      213: -8376215598561971474
+    second: Assets 1_1093
+  - first:
+      213: -3588466500329080071
+    second: Assets 1_1094
+  - first:
+      213: 6479778529030671805
+    second: Assets 1_1095
+  - first:
+      213: 1606264027742834493
+    second: Assets 1_1096
+  - first:
+      213: 8282533369589052565
+    second: Assets 1_1097
+  - first:
+      213: 4505015191952126899
+    second: Assets 1_1098
+  - first:
+      213: -889126086275806978
+    second: Assets 1_1099
+  - first:
+      213: -4040284011467572449
+    second: Assets 1_1100
+  - first:
+      213: 640696495186978099
+    second: Assets 1_1101
+  - first:
+      213: -8965881242666006705
+    second: Assets 1_1102
+  - first:
+      213: 4234569208295384248
+    second: Assets 1_1103
+  - first:
+      213: -63021428978081465
+    second: Assets 1_1104
+  - first:
+      213: 6955520487756465652
+    second: Assets 1_1105
+  - first:
+      213: -3623955706676958979
+    second: Assets 1_1106
+  - first:
+      213: 725423200386266307
+    second: Assets 1_1107
+  - first:
+      213: -8151262845377774529
+    second: Assets 1_1108
+  - first:
+      213: -3020951449142244710
+    second: Assets 1_1109
+  - first:
+      213: -8225253765221199507
+    second: Assets 1_1110
+  - first:
+      213: 12875811225685784
+    second: Assets 1_1111
+  - first:
+      213: 5796979080116865705
+    second: Assets 1_1112
+  - first:
+      213: -2718657506125900976
+    second: Assets 1_1113
+  - first:
+      213: 7043246100375567592
+    second: Assets 1_1114
+  - first:
+      213: -7047937796849041187
+    second: Assets 1_1115
+  - first:
+      213: -8062970515640073426
+    second: Assets 1_1116
+  - first:
+      213: 1703613374013540938
+    second: Assets 1_1117
+  - first:
+      213: -5082194410762861114
+    second: Assets 1_1118
+  - first:
+      213: 1930639785257745846
+    second: Assets 1_1119
+  - first:
+      213: -924779599337342680
+    second: Assets 1_1120
+  - first:
+      213: -3474554302554674764
+    second: Assets 1_1121
+  - first:
+      213: 6757769112394442727
+    second: Assets 1_1122
+  - first:
+      213: -5407648697150496
+    second: Assets 1_1123
+  - first:
+      213: -8983454348562958047
+    second: Assets 1_1124
+  - first:
+      213: -5086635303566703422
+    second: Assets 1_1125
+  - first:
+      213: 3257509457735782163
+    second: Assets 1_1126
+  - first:
+      213: 4601273908851073603
+    second: Assets 1_1127
+  - first:
+      213: -8417332477819889350
+    second: Assets 1_1128
+  - first:
+      213: -1962773450452740516
+    second: Assets 1_1129
+  - first:
+      213: 6449287474159591106
+    second: Assets 1_1130
+  - first:
+      213: 691606788564401149
+    second: Assets 1_1131
+  - first:
+      213: 8801412939888816336
+    second: Assets 1_1132
+  - first:
+      213: 6656114821210153527
+    second: Assets 1_1133
+  - first:
+      213: 8878999287611266088
+    second: Assets 1_1134
+  - first:
+      213: 2921173007832717909
+    second: Assets 1_1135
+  - first:
+      213: -3412450286965666936
+    second: Assets 1_1136
+  - first:
+      213: 968921451087040163
+    second: Assets 1_1137
+  - first:
+      213: 6093361913627353760
+    second: Assets 1_1138
+  - first:
+      213: 5343316801815785050
+    second: Assets 1_1139
+  - first:
+      213: 5352841487245103884
+    second: Assets 1_1140
+  - first:
+      213: 9046055709617200786
+    second: Assets 1_1141
+  - first:
+      213: -3460568186428139901
+    second: Assets 1_1142
+  - first:
+      213: -1633938828654169814
+    second: Assets 1_1143
+  - first:
+      213: 3493010602986688533
+    second: Assets 1_1144
+  - first:
+      213: -3152662705663697532
+    second: Assets 1_1145
+  - first:
+      213: -3329844974867994926
+    second: Assets 1_1146
+  - first:
+      213: -8346497430392794721
+    second: Assets 1_1147
+  - first:
+      213: -5102913463023380927
+    second: Assets 1_1148
+  - first:
+      213: 43637397443645535
+    second: Assets 1_1149
+  - first:
+      213: -3187183463509619263
+    second: Assets 1_1150
+  - first:
+      213: 6992449269078002234
+    second: Assets 1_1151
+  - first:
+      213: -2631238517954454122
+    second: Assets 1_1152
+  - first:
+      213: -1457560752397801452
+    second: Assets 1_1153
+  - first:
+      213: 3085186892413188956
+    second: Assets 1_1154
+  - first:
+      213: -781817945272333108
+    second: Assets 1_1155
+  - first:
+      213: -7138723624375505085
+    second: Assets 1_1156
+  - first:
+      213: -3051907782909949086
+    second: Assets 1_1157
+  - first:
+      213: 4495698790173340170
+    second: Assets 1_1158
+  - first:
+      213: -6322279464860162086
+    second: Assets 1_1159
+  - first:
+      213: -3971638652792712557
+    second: Assets 1_1160
+  - first:
+      213: -7801417605794341476
+    second: Assets 1_1161
+  - first:
+      213: 1241372064512466926
+    second: Assets 1_1162
+  - first:
+      213: 3402135285100987621
+    second: Assets 1_1163
+  - first:
+      213: 3845567833348534892
+    second: Assets 1_1164
+  - first:
+      213: 9192413372620060726
+    second: Assets 1_1165
+  - first:
+      213: 5151567705929692666
+    second: Assets 1_1166
+  - first:
+      213: 42636690052768973
+    second: Assets 1_1167
+  - first:
+      213: 5472861532817554387
+    second: Assets 1_1168
+  - first:
+      213: -5041650490965499277
+    second: Assets 1_1169
+  - first:
+      213: -4406887642214567644
+    second: Assets 1_1170
+  - first:
+      213: 8857148741228236301
+    second: Assets 1_1171
+  - first:
+      213: 872320386416087743
+    second: Assets 1_1172
+  - first:
+      213: -5946789191443927482
+    second: Assets 1_1173
+  - first:
+      213: -437217015758019086
+    second: Assets 1_1174
+  - first:
+      213: 8939824592545473498
+    second: Assets 1_1175
+  - first:
+      213: 6955205932361532726
+    second: Assets 1_1176
+  - first:
+      213: 4439486061364536992
+    second: Assets 1_1177
+  - first:
+      213: 4489657855310775326
+    second: Assets 1_1178
+  - first:
+      213: -1222529476922863065
+    second: Assets 1_1179
+  - first:
+      213: 6888349956650487248
+    second: Assets 1_1180
+  - first:
+      213: -5003339692461157330
+    second: Assets 1_1181
+  - first:
+      213: 8791868163617144371
+    second: Assets 1_1182
+  - first:
+      213: 7503348057632938447
+    second: Assets 1_1183
+  - first:
+      213: 9183887459225709065
+    second: Assets 1_1184
+  - first:
+      213: -3508739968714193059
+    second: Assets 1_1185
+  - first:
+      213: -5280756679259442427
+    second: Assets 1_1186
+  - first:
+      213: -6174361349865450040
+    second: Assets 1_1187
+  - first:
+      213: 2527045192449009853
+    second: Assets 1_1188
+  - first:
+      213: 4671226422213611015
+    second: Assets 1_1189
+  - first:
+      213: 5602332424291074010
+    second: Assets 1_1190
+  - first:
+      213: -4126383847363701827
+    second: Assets 1_1191
+  - first:
+      213: -2548691176619567976
+    second: Assets 1_1192
+  - first:
+      213: -1415933806015470613
+    second: Assets 1_1193
+  - first:
+      213: 1037580712330042112
+    second: Assets 1_1194
+  - first:
+      213: 9010513117732269319
+    second: Assets 1_1195
+  - first:
+      213: -1194665275638493259
+    second: Assets 1_1196
+  - first:
+      213: 262233458645899089
+    second: Assets 1_1197
+  - first:
+      213: -8307094742924030729
+    second: Assets 1_1198
+  - first:
+      213: 5384385374437563804
+    second: Assets 1_1199
+  - first:
+      213: 5531110928960271333
+    second: Assets 1_1200
+  - first:
+      213: -1767958596636297665
+    second: Assets 1_1201
+  - first:
+      213: 8181297682526332189
+    second: Assets 1_1202
+  - first:
+      213: -2183553763928628798
+    second: Assets 1_1203
+  - first:
+      213: -1407251863539096481
+    second: Assets 1_1204
+  - first:
+      213: -7713470918670877654
+    second: Assets 1_1205
+  - first:
+      213: -8469538345047394984
+    second: Assets 1_1206
+  - first:
+      213: 1458627887648429376
+    second: Assets 1_1207
+  - first:
+      213: 8651607112351776474
+    second: Assets 1_1208
+  - first:
+      213: -5796538002190985929
+    second: Assets 1_1209
+  - first:
+      213: 3632687635710238224
+    second: Assets 1_1210
+  - first:
+      213: 7356582024489464524
+    second: Assets 1_1211
+  - first:
+      213: 7569877679030502266
+    second: Assets 1_1212
+  - first:
+      213: 4526095668773370209
+    second: Assets 1_1213
+  - first:
+      213: 2498589102186208254
+    second: Assets 1_1214
+  - first:
+      213: 2378934785168466783
+    second: Assets 1_1215
+  - first:
+      213: -2491620137181422305
+    second: Assets 1_1216
+  - first:
+      213: -6806661171827003504
+    second: Assets 1_1217
+  - first:
+      213: -2538064499967253464
+    second: Assets 1_1218
+  - first:
+      213: -7815166740426248391
+    second: Assets 1_1219
+  - first:
+      213: 8011673680685985566
+    second: Assets 1_1220
+  - first:
+      213: 1990526974023047690
+    second: Assets 1_1221
+  - first:
+      213: -5391524026555970326
+    second: Assets 1_1222
+  - first:
+      213: -6817122748235038530
+    second: Assets 1_1223
+  - first:
+      213: -2065695213972887246
+    second: Assets 1_1224
+  - first:
+      213: -4416203471641759690
+    second: Assets 1_1225
+  - first:
+      213: 5735321387599767967
+    second: Assets 1_1226
+  - first:
+      213: 6009695091979979634
+    second: Assets 1_1227
+  - first:
+      213: 3756027786478622614
+    second: Assets 1_1228
+  - first:
+      213: 7615989710457597684
+    second: Assets 1_1229
+  - first:
+      213: -4159862937202951131
+    second: Assets 1_1230
+  - first:
+      213: -5976234986907883014
+    second: Assets 1_1231
+  - first:
+      213: -8906834574725497906
+    second: Assets 1_1232
+  - first:
+      213: -2430412761733438291
+    second: Assets 1_1233
+  - first:
+      213: 5987685238642070948
+    second: Assets 1_1234
+  - first:
+      213: -7555152224742802935
+    second: Assets 1_1235
+  - first:
+      213: 7149250810802899637
+    second: Assets 1_1236
+  - first:
+      213: 2926565220742883430
+    second: Assets 1_1237
+  - first:
+      213: -2443782181486192694
+    second: Assets 1_1238
+  - first:
+      213: 6174580634678658826
+    second: Assets 1_1239
+  - first:
+      213: 7430944928164525254
+    second: Assets 1_1240
+  - first:
+      213: -4099287971858096716
+    second: Assets 1_1241
+  - first:
+      213: 2491423891183590337
+    second: Assets 1_1242
+  - first:
+      213: 6365430699214079654
+    second: Assets 1_1243
+  - first:
+      213: 6172992065917933958
+    second: Assets 1_1244
+  - first:
+      213: -7958937784668210395
+    second: Assets 1_1245
+  - first:
+      213: 2083195206639487495
+    second: Assets 1_1246
+  - first:
+      213: -4276847716756322484
+    second: Assets 1_1247
+  - first:
+      213: 5047710610613963077
+    second: Assets 1_1248
+  - first:
+      213: -3737232223532978526
+    second: Assets 1_1249
+  - first:
+      213: -8212057530727461631
+    second: Assets 1_1250
+  - first:
+      213: -7158674631203339644
+    second: Assets 1_1251
+  - first:
+      213: -8686072503588681611
+    second: Assets 1_1252
+  - first:
+      213: -6921081521134017262
+    second: Assets 1_1253
+  - first:
+      213: 4130047191878285179
+    second: Assets 1_1254
+  - first:
+      213: -9021457595406081157
+    second: Assets 1_1255
+  - first:
+      213: -1037799917557114133
+    second: Assets 1_1256
+  - first:
+      213: 2593634633724655453
+    second: Assets 1_1257
+  - first:
+      213: 1482014694059654860
+    second: Assets 1_1258
+  - first:
+      213: -6726993724526155721
+    second: Assets 1_1259
+  - first:
+      213: -4046046160223175803
+    second: Assets 1_1260
+  - first:
+      213: -1446780191118401940
+    second: Assets 1_1261
+  - first:
+      213: 648997805521448084
+    second: Assets 1_1262
+  - first:
+      213: -6847592920330180391
+    second: Assets 1_1263
+  - first:
+      213: 7272375301396767807
+    second: Assets 1_1264
+  - first:
+      213: 8643145203341316932
+    second: Assets 1_1265
+  - first:
+      213: 2769810169895625971
+    second: Assets 1_1266
+  - first:
+      213: 7859306861448345086
+    second: Assets 1_1267
+  - first:
+      213: -7776383211598934668
+    second: Assets 1_1268
+  - first:
+      213: 6241935222935213461
+    second: Assets 1_1269
+  - first:
+      213: -2983404011660424998
+    second: Assets 1_1270
+  - first:
+      213: -7292080033997023800
+    second: Assets 1_1271
+  - first:
+      213: -4201179551150223958
+    second: Assets 1_1272
+  - first:
+      213: 8125321187860475622
+    second: Assets 1_1273
+  - first:
+      213: -7763434257191806198
+    second: Assets 1_1274
+  - first:
+      213: -3654378063962176196
+    second: Assets 1_1275
+  - first:
+      213: 1476220289152882378
+    second: Assets 1_1276
+  - first:
+      213: 7885513600602245909
+    second: Assets 1_1277
+  - first:
+      213: -6288259649714745128
+    second: Assets 1_1278
+  - first:
+      213: 5225741057290466442
+    second: Assets 1_1279
+  - first:
+      213: 5309222720173219579
+    second: Assets 1_1280
+  - first:
+      213: 4878997858455205334
+    second: Assets 1_1281
+  - first:
+      213: 8353775114677114769
+    second: Assets 1_1282
+  - first:
+      213: 6072799981885646029
+    second: Assets 1_1283
+  - first:
+      213: -8594644689350401175
+    second: Assets 1_1284
+  - first:
+      213: -3869778601834236605
+    second: Assets 1_1285
+  - first:
+      213: -8931525956565740805
+    second: Assets 1_1286
+  - first:
+      213: -3061831146968047664
+    second: Assets 1_1287
+  - first:
+      213: 4676397847929468684
+    second: Assets 1_1288
+  - first:
+      213: 5591206696879796199
+    second: Assets 1_1289
+  - first:
+      213: -7998215357857292796
+    second: Assets 1_1290
+  - first:
+      213: 8806511996551818396
+    second: Assets 1_1291
+  - first:
+      213: 3527039293182105447
+    second: Assets 1_1292
+  - first:
+      213: -1863120188013016096
+    second: Assets 1_1293
+  - first:
+      213: -6344269416738057098
+    second: Assets 1_1294
+  - first:
+      213: -8821471574067938869
+    second: Assets 1_1295
+  - first:
+      213: -6385077644564683622
+    second: Assets 1_1296
+  - first:
+      213: -1816678464246227650
+    second: Assets 1_1297
+  - first:
+      213: -3433460907631953770
+    second: Assets 1_1298
+  - first:
+      213: -7034433557760452741
+    second: Assets 1_1299
+  - first:
+      213: 5021066488894214744
+    second: Assets 1_1300
+  - first:
+      213: -2243258824002933263
+    second: Assets 1_1301
+  - first:
+      213: 227112395131399561
+    second: Assets 1_1302
+  - first:
+      213: -1387314657341224450
+    second: Assets 1_1303
+  - first:
+      213: 1029843893413150769
+    second: Assets 1_1304
+  - first:
+      213: 393865644910949918
+    second: Assets 1_1305
+  - first:
+      213: -685076677724372709
+    second: Assets 1_1306
+  - first:
+      213: 3357847380815218121
+    second: Assets 1_1307
+  - first:
+      213: 32502073735064631
+    second: Assets 1_1308
+  - first:
+      213: -4677773494484180178
+    second: Assets 1_1309
+  - first:
+      213: 8166322673978996568
+    second: Assets 1_1310
+  - first:
+      213: -6314394902164481729
+    second: Assets 1_1311
+  - first:
+      213: 6585166838201713302
+    second: Assets 1_1312
+  - first:
+      213: 448518478498779325
+    second: Assets 1_1313
+  - first:
+      213: 9054493646190167552
+    second: Assets 1_1314
+  - first:
+      213: -7392230219999584942
+    second: Assets 1_1315
+  - first:
+      213: -3426368118655796629
+    second: Assets 1_1316
+  - first:
+      213: 4230641793163435113
+    second: Assets 1_1317
+  - first:
+      213: 7175707252861112607
+    second: Assets 1_1318
+  - first:
+      213: 7550083852438745464
+    second: Assets 1_1319
+  - first:
+      213: -3526655442296873033
+    second: Assets 1_1320
+  - first:
+      213: 2788827107614229571
+    second: Assets 1_1321
+  - first:
+      213: -9000410796627348046
+    second: Assets 1_1322
+  - first:
+      213: 8320805304521611592
+    second: Assets 1_1323
+  - first:
+      213: -2586179962347605892
+    second: Assets 1_1324
+  - first:
+      213: 1718764211701312338
+    second: Assets 1_1325
+  - first:
+      213: -9222363444199401575
+    second: Assets 1_1326
+  - first:
+      213: -8874392882329283227
+    second: Assets 1_1327
+  - first:
+      213: 8818110478677979799
+    second: Assets 1_1328
+  - first:
+      213: -2911992426925995400
+    second: Assets 1_1329
+  - first:
+      213: -2228408787109375909
+    second: Assets 1_1330
+  - first:
+      213: -3018360526556186757
+    second: Assets 1_1331
+  - first:
+      213: -5889200910685168120
+    second: Assets 1_1332
+  - first:
+      213: 6438218653781121388
+    second: Assets 1_1333
+  - first:
+      213: 8523550482399954623
+    second: Assets 1_1334
+  - first:
+      213: -3093430329122510005
+    second: Assets 1_1335
+  - first:
+      213: -5586168834109157336
+    second: Assets 1_1336
+  - first:
+      213: -8025230334057645147
+    second: Assets 1_1337
+  - first:
+      213: 4187971109269741124
+    second: Assets 1_1338
+  - first:
+      213: 8217378840499667576
+    second: Assets 1_1339
+  - first:
+      213: -1367681384505183508
+    second: Assets 1_1340
+  - first:
+      213: 8800868494921938145
+    second: Assets 1_1341
+  - first:
+      213: -6691075614490313102
+    second: Assets 1_1342
+  - first:
+      213: 4551324273972030367
+    second: Assets 1_1343
+  - first:
+      213: -7794892291755583757
+    second: Assets 1_1344
+  - first:
+      213: -6750841215998742771
+    second: Assets 1_1345
+  - first:
+      213: -3969936992628095813
+    second: Assets 1_1346
+  - first:
+      213: -7627712207505887061
+    second: Assets 1_1347
+  - first:
+      213: -9038768169460189336
+    second: Assets 1_1348
+  - first:
+      213: -8551336710425138007
+    second: Assets 1_1349
+  - first:
+      213: 1470927003266284173
+    second: Assets 1_1350
+  - first:
+      213: -4639442123114058106
+    second: Assets 1_1351
+  - first:
+      213: 6179225689431835085
+    second: Assets 1_1352
+  - first:
+      213: 3030025635095236156
+    second: Assets 1_1353
+  - first:
+      213: 5015453115671963
+    second: Assets 1_1354
+  - first:
+      213: -1686545395889306952
+    second: Assets 1_1355
+  - first:
+      213: 8556643496681043070
+    second: Assets 1_1356
+  - first:
+      213: -6623581513285585819
+    second: Assets 1_1357
+  - first:
+      213: -5848114788176865898
+    second: Assets 1_1358
+  - first:
+      213: -5303394241733335571
+    second: Assets 1_1359
+  - first:
+      213: -4962071876877417082
+    second: Assets 1_1360
+  - first:
+      213: -1514056865462024826
+    second: Assets 1_1361
+  - first:
+      213: -272041067298969440
+    second: Assets 1_1362
+  - first:
+      213: -5418524538771067599
+    second: Assets 1_1363
+  - first:
+      213: -8228191916059722314
+    second: Assets 1_1364
+  - first:
+      213: -6736278620156753207
+    second: Assets 1_1365
+  - first:
+      213: -1358892784617808429
+    second: Assets 1_1366
+  - first:
+      213: 4748784340399115031
+    second: Assets 1_1367
+  - first:
+      213: -7881232893506500790
+    second: Assets 1_1368
+  - first:
+      213: -3225423702403556006
+    second: Assets 1_1369
+  - first:
+      213: 6228619515263919189
+    second: Assets 1_1370
+  - first:
+      213: 2644969360594970805
+    second: Assets 1_1371
+  - first:
+      213: -6775437526052162375
+    second: Assets 1_1372
+  - first:
+      213: -2956771279943884299
+    second: Assets 1_1373
+  - first:
+      213: 793363443432334226
+    second: Assets 1_1374
+  - first:
+      213: -2918783810576572015
+    second: Assets 1_1375
+  - first:
+      213: 4660076717260720726
+    second: Assets 1_1376
+  - first:
+      213: 7144920841859244442
+    second: Assets 1_1377
+  - first:
+      213: -4937111790444745560
+    second: Assets 1_1378
+  - first:
+      213: -6678640824198032842
+    second: Assets 1_1379
+  - first:
+      213: 9006289211440479750
+    second: Assets 1_1380
+  - first:
+      213: 4010472591899389451
+    second: Assets 1_1381
+  - first:
+      213: -7372322840799497082
+    second: Assets 1_1382
+  - first:
+      213: -8988269980631440138
+    second: Assets 1_1383
+  - first:
+      213: 5444372746066064680
+    second: Assets 1_1384
+  - first:
+      213: 934365079301420135
+    second: Assets 1_1385
+  - first:
+      213: -272910062132041463
+    second: Assets 1_1386
+  - first:
+      213: 4230250200179315190
+    second: Assets 1_1387
+  - first:
+      213: -6504036645682106371
+    second: Assets 1_1388
+  - first:
+      213: 8557850672144134449
+    second: Assets 1_1389
+  - first:
+      213: -2185609216767191070
+    second: Assets 1_1390
+  - first:
+      213: -7830860106298019681
+    second: Assets 1_1391
+  - first:
+      213: 341351469261011366
+    second: Assets 1_1392
+  - first:
+      213: 8470570449045406179
+    second: Assets 1_1393
+  - first:
+      213: -3433390836093172446
+    second: Assets 1_1394
+  - first:
+      213: -6746231773903639830
+    second: Assets 1_1395
+  - first:
+      213: -229443728272642111
+    second: Assets 1_1396
+  - first:
+      213: -1485972795462244387
+    second: Assets 1_1397
+  - first:
+      213: 604514318736428579
+    second: Assets 1_1398
+  - first:
+      213: 8205454323108083781
+    second: Assets 1_1399
+  - first:
+      213: 6707750686220754042
+    second: Assets 1_1400
+  - first:
+      213: -3623610863867348871
+    second: Assets 1_1401
+  - first:
+      213: 6249559283843107921
+    second: Assets 1_1402
+  - first:
+      213: 2290640025251363853
+    second: Assets 1_1403
+  - first:
+      213: 3802005915577033137
+    second: Assets 1_1404
+  - first:
+      213: 2468471048618043080
+    second: Assets 1_1405
+  - first:
+      213: 4216488771091792721
+    second: Assets 1_1406
+  - first:
+      213: -2900977780520318321
+    second: Assets 1_1407
+  - first:
+      213: -228102178265851713
+    second: Assets 1_1408
+  - first:
+      213: -2121520983623385684
+    second: Assets 1_1409
+  - first:
+      213: -3982101484045775623
+    second: Assets 1_1410
+  - first:
+      213: 4488458680299359008
+    second: Assets 1_1411
+  - first:
+      213: 2749023334850141832
+    second: Assets 1_1412
+  - first:
+      213: -2400380554287488074
+    second: Assets 1_1413
+  - first:
+      213: 2500603046738681485
+    second: Assets 1_1414
+  - first:
+      213: 7633433873301980296
+    second: Assets 1_1415
+  - first:
+      213: -5153982242649992698
+    second: Assets 1_1416
+  - first:
+      213: -6028812342549993847
+    second: Assets 1_1417
+  - first:
+      213: 8702802755606340678
+    second: Assets 1_1418
+  - first:
+      213: 2936139013044684474
+    second: Assets 1_1419
+  - first:
+      213: -3900350561453947534
+    second: Assets 1_1420
+  - first:
+      213: -7085472237381320479
+    second: Assets 1_1421
+  - first:
+      213: 4919116337220163269
+    second: Assets 1_1422
+  - first:
+      213: 9137252104632512777
+    second: Assets 1_1423
+  - first:
+      213: 592472974572425274
+    second: Assets 1_1424
+  - first:
+      213: 6351040888483455370
+    second: Assets 1_1425
+  - first:
+      213: 7788251330109195849
+    second: Assets 1_1426
+  - first:
+      213: 8477395246439629326
+    second: Assets 1_1427
+  - first:
+      213: -7084701075953163104
+    second: Assets 1_1428
+  - first:
+      213: 8891090462953038535
+    second: Assets 1_1429
+  - first:
+      213: -6511975611312006567
+    second: Assets 1_1430
+  - first:
+      213: -7407558749417111553
+    second: Assets 1_1431
+  - first:
+      213: -4138831285304366922
+    second: Assets 1_1432
+  - first:
+      213: 6984089718581766431
+    second: Assets 1_1433
+  - first:
+      213: -4769710228879055935
+    second: Assets 1_1434
+  - first:
+      213: 4715379354438173428
+    second: Assets 1_1435
+  - first:
+      213: -2057303000316972620
+    second: Assets 1_1436
+  - first:
+      213: 1506077402545129576
+    second: Assets 1_1437
+  - first:
+      213: -1448560738979142477
+    second: Assets 1_1438
+  - first:
+      213: -8506790245334968983
+    second: Assets 1_1439
+  - first:
+      213: 8698298211269885310
+    second: Assets 1_1440
+  - first:
+      213: -8760366361024284341
+    second: Assets 1_1441
+  - first:
+      213: 4194059556211790861
+    second: Assets 1_1442
+  - first:
+      213: -3525568353002036077
+    second: Assets 1_1443
+  - first:
+      213: 6181858486434744654
+    second: Assets 1_1444
+  - first:
+      213: -6537119253755415859
+    second: Assets 1_1445
+  - first:
+      213: 7933227434752260448
+    second: Assets 1_1446
+  - first:
+      213: -7397718144710415369
+    second: Assets 1_1447
+  - first:
+      213: 7222452338067158360
+    second: Assets 1_1448
+  - first:
+      213: -6779217959628023675
+    second: Assets 1_1449
+  - first:
+      213: 7145930158465986950
+    second: Assets 1_1450
+  - first:
+      213: 8425512082169952921
+    second: Assets 1_1451
+  - first:
+      213: 2196135003579847038
+    second: Assets 1_1452
+  - first:
+      213: 8531652276661743358
+    second: Assets 1_1453
+  - first:
+      213: 6620418844850187229
+    second: Assets 1_1454
+  - first:
+      213: 3525040483725195385
+    second: Assets 1_1455
+  - first:
+      213: 2634199445632327613
+    second: Assets 1_1456
+  - first:
+      213: 6254251856171926860
+    second: Assets 1_1457
+  - first:
+      213: 6357577707605821284
+    second: Assets 1_1458
+  - first:
+      213: -2288490989967459877
+    second: Assets 1_1459
+  - first:
+      213: 6529269574280746695
+    second: Assets 1_1460
+  - first:
+      213: 2989719561462719179
+    second: Assets 1_1461
+  - first:
+      213: -2462208738805083436
+    second: Assets 1_1462
+  - first:
+      213: 2871732222183746180
+    second: Assets 1_1463
+  - first:
+      213: -7234077931646376429
+    second: Assets 1_1464
+  - first:
+      213: -3884621068130519822
+    second: Assets 1_1465
+  - first:
+      213: -8398431311235383179
+    second: Assets 1_1466
+  - first:
+      213: 4747777956449767616
+    second: Assets 1_1467
+  - first:
+      213: 6550367083217309548
+    second: Assets 1_1468
+  - first:
+      213: 2126696647176073404
+    second: Assets 1_1469
+  - first:
+      213: -7013685415264402492
+    second: Assets 1_1470
+  - first:
+      213: 4767731507063126811
+    second: Assets 1_1471
+  - first:
+      213: -6782009945826258969
+    second: Assets 1_1472
+  - first:
+      213: -22715997365146826
+    second: Assets 1_1473
+  - first:
+      213: -6523551717673676182
+    second: Assets 1_1474
+  - first:
+      213: 5832480612143484295
+    second: Assets 1_1475
+  - first:
+      213: 5152102536813645019
+    second: Assets 1_1476
+  - first:
+      213: -2929975214193045
+    second: Assets 1_1477
+  - first:
+      213: -7530523391239846955
+    second: Assets 1_1478
+  - first:
+      213: 1501735528166235851
+    second: Assets 1_1479
+  - first:
+      213: -1597102435375991000
+    second: Assets 1_1480
+  - first:
+      213: 5015422435765770513
+    second: Assets 1_1481
+  - first:
+      213: 2528453059761015800
+    second: Assets 1_1482
+  - first:
+      213: 5002243446386200179
+    second: Assets 1_1483
+  - first:
+      213: 5937604966009911157
+    second: Assets 1_1484
+  - first:
+      213: 1740499160581796457
+    second: Assets 1_1485
+  - first:
+      213: 8179665206360029584
+    second: Assets 1_1486
+  - first:
+      213: -5885795914664821942
+    second: Assets 1_1487
+  - first:
+      213: -2856067094929030031
+    second: Assets 1_1488
+  - first:
+      213: -4576549566213632798
+    second: Assets 1_1489
+  - first:
+      213: -7871836272008679011
+    second: Assets 1_1490
+  - first:
+      213: -1216305557335794903
+    second: Assets 1_1491
+  - first:
+      213: 6334952736851660473
+    second: Assets 1_1492
+  - first:
+      213: -7289024053339666219
+    second: Assets 1_1493
+  - first:
+      213: 1768708073801508767
+    second: Assets 1_1494
+  - first:
+      213: 8477383468110614765
+    second: Assets 1_1495
+  - first:
+      213: 1064810233333238692
+    second: Assets 1_1496
+  - first:
+      213: 1223234554515319117
+    second: Assets 1_1497
+  - first:
+      213: -1882638421859612116
+    second: Assets 1_1498
+  - first:
+      213: 2336215454945928023
+    second: Assets 1_1499
+  - first:
+      213: 2167158607293948732
+    second: Assets 1_1500
+  - first:
+      213: 3212325579103654364
+    second: Assets 1_1501
+  - first:
+      213: 4940224598069533262
+    second: Assets 1_1502
+  - first:
+      213: 8945833953496232283
+    second: Assets 1_1503
+  - first:
+      213: 4254164157034641826
+    second: Assets 1_1504
+  - first:
+      213: 5962830261765913149
+    second: Assets 1_1505
+  - first:
+      213: -4505874795444483441
+    second: Assets 1_1506
+  - first:
+      213: -2199345578042968500
+    second: Assets 1_1507
+  - first:
+      213: -3653899145529334310
+    second: Assets 1_1508
+  - first:
+      213: 1649486647929843532
+    second: Assets 1_1509
+  - first:
+      213: -1120773848687368055
+    second: Assets 1_1510
+  - first:
+      213: 8722782354139805449
+    second: Assets 1_1511
+  - first:
+      213: -3279896352925557864
+    second: Assets 1_1512
+  - first:
+      213: 2453077874336248437
+    second: Assets 1_1513
+  - first:
+      213: -6372894517900224268
+    second: Assets 1_1514
+  - first:
+      213: -5925437798072760235
+    second: Assets 1_1515
+  - first:
+      213: -5629275734133505675
+    second: Assets 1_1516
+  - first:
+      213: -3431899815591131931
+    second: Assets 1_1517
+  - first:
+      213: 4258175848290032153
+    second: Assets 1_1518
+  - first:
+      213: -5721165908415902640
+    second: Assets 1_1519
+  - first:
+      213: 5125020433906089604
+    second: Assets 1_1520
+  - first:
+      213: 5956107529822882522
+    second: Assets 1_1521
+  - first:
+      213: 3054952920486377643
+    second: Assets 1_1522
+  - first:
+      213: -7144099327546305588
+    second: Assets 1_1523
+  - first:
+      213: -5233535998623810346
+    second: Assets 1_1524
+  - first:
+      213: 8907773886438778966
+    second: Assets 1_1525
+  - first:
+      213: -9153644045759388583
+    second: Assets 1_1526
+  - first:
+      213: -3079083944152936421
+    second: Assets 1_1527
+  - first:
+      213: -295896585284783776
+    second: Assets 1_1528
+  - first:
+      213: 1449929203112414290
+    second: Assets 1_1529
+  - first:
+      213: 6678458921993370228
+    second: Assets 1_1530
+  - first:
+      213: -194859252948080290
+    second: Assets 1_1531
+  - first:
+      213: -5061294649914846336
+    second: Assets 1_1532
+  - first:
+      213: -2457656659664922220
+    second: Assets 1_1533
+  - first:
+      213: -404140760071365062
+    second: Assets 1_1534
+  - first:
+      213: -5760668100173810006
+    second: Assets 1_1535
+  - first:
+      213: -8633750960867282709
+    second: Assets 1_1536
+  - first:
+      213: 5114247704912864898
+    second: Assets 1_1537
+  - first:
+      213: -2728751201247379359
+    second: Assets 1_1538
+  - first:
+      213: -1450601083346313571
+    second: Assets 1_1539
+  - first:
+      213: 1928805241093502043
+    second: Assets 1_1540
+  - first:
+      213: -6437227550506914284
+    second: Assets 1_1541
+  - first:
+      213: -2064819925625727092
+    second: Assets 1_1542
+  - first:
+      213: 6908847413792974959
+    second: Assets 1_1543
+  - first:
+      213: -453418022056365658
+    second: Assets 1_1544
+  - first:
+      213: 3926335990010855058
+    second: Assets 1_1545
+  - first:
+      213: 111005274875314969
+    second: Assets 1_1546
+  - first:
+      213: -6722597162294517548
+    second: Assets 1_1547
+  - first:
+      213: -1564904927967390657
+    second: Assets 1_1548
+  - first:
+      213: 1866242799166259696
+    second: Assets 1_1549
+  - first:
+      213: 6486103959154943675
+    second: Assets 1_1550
+  - first:
+      213: 7505148198316336275
+    second: Assets 1_1551
+  - first:
+      213: -371312149702039838
+    second: Assets 1_1552
+  - first:
+      213: -5278272979498776524
+    second: Assets 1_1553
+  - first:
+      213: 3535941704965087173
+    second: Assets 1_1554
+  - first:
+      213: -7842337811463067824
+    second: Assets 1_1555
+  - first:
+      213: -9184395058195589658
+    second: Assets 1_1556
+  - first:
+      213: -8911054318114471463
+    second: Assets 1_1557
+  - first:
+      213: -4578822836671524704
+    second: Assets 1_1558
+  - first:
+      213: 4858515829925415206
+    second: Assets 1_1559
+  - first:
+      213: 6766095447592322979
+    second: Assets 1_1560
+  - first:
+      213: -3789495455703235700
+    second: Assets 1_1561
+  - first:
+      213: -5386248527280676048
+    second: Assets 1_1562
+  - first:
+      213: -5265179741165312435
+    second: Assets 1_1563
+  - first:
+      213: 927027612836286285
+    second: Assets 1_1564
+  - first:
+      213: -3522608555645087439
+    second: Assets 1_1565
+  - first:
+      213: 4831256949654632260
+    second: Assets 1_1566
+  - first:
+      213: 9201077052796187540
+    second: Assets 1_1567
+  - first:
+      213: -5070174323147663586
+    second: Assets 1_1568
+  - first:
+      213: 1504401957608913339
+    second: Assets 1_1569
+  - first:
+      213: 1330232955581179683
+    second: Assets 1_1570
+  - first:
+      213: -2088029000021651544
+    second: Assets 1_1571
+  - first:
+      213: 8796364549765692310
+    second: Assets 1_1572
+  - first:
+      213: 1661452224223974138
+    second: Assets 1_1573
+  - first:
+      213: -3872235085261686078
+    second: Assets 1_1574
+  - first:
+      213: 2444990756169331499
+    second: Assets 1_1575
+  - first:
+      213: -8462604832123583677
+    second: Assets 1_1576
+  - first:
+      213: 3883665880045191362
+    second: Assets 1_1577
+  - first:
+      213: -3795449743765895194
+    second: Assets 1_1578
+  - first:
+      213: -659963401224485366
+    second: Assets 1_1579
+  - first:
+      213: 2020240595056914207
+    second: Assets 1_1580
+  - first:
+      213: -1309200178983304178
+    second: Assets 1_1581
+  - first:
+      213: -6407136791182306226
+    second: Assets 1_1582
+  - first:
+      213: 8089027510138677420
+    second: Assets 1_1583
+  - first:
+      213: -7405811962779069353
+    second: Assets 1_1584
+  - first:
+      213: -2709213813708868931
+    second: Assets 1_1585
+  - first:
+      213: 92562385359048071
+    second: Assets 1_1586
+  - first:
+      213: 1236290715730714706
+    second: Assets 1_1587
+  - first:
+      213: 6704297409192596366
+    second: Assets 1_1588
+  - first:
+      213: -1422858690700753603
+    second: Assets 1_1589
+  - first:
+      213: -709278469451581746
+    second: Assets 1_1590
+  - first:
+      213: 4081704366968536356
+    second: Assets 1_1591
+  - first:
+      213: -1657195606738231809
+    second: Assets 1_1592
+  - first:
+      213: -6407336754984706431
+    second: Assets 1_1593
+  - first:
+      213: 4618983051672752448
+    second: Assets 1_1594
+  - first:
+      213: -6142696160885882656
+    second: Assets 1_1595
+  - first:
+      213: -5629893856470343755
+    second: Assets 1_1596
+  - first:
+      213: -7765545789029049083
+    second: Assets 1_1597
+  - first:
+      213: -8873412039012574067
+    second: Assets 1_1598
+  - first:
+      213: -4765609979571333569
+    second: Assets 1_1599
+  - first:
+      213: 22084758060493958
+    second: Assets 1_1600
+  - first:
+      213: 8166802397822061240
+    second: Assets 1_1601
+  - first:
+      213: 4860198663638912613
+    second: Assets 1_1602
+  - first:
+      213: -7254626500090859717
+    second: Assets 1_1603
+  - first:
+      213: -1494145119707221201
+    second: Assets 1_1604
+  - first:
+      213: 4260767819970290052
+    second: Assets 1_1605
+  - first:
+      213: 441980251546444924
+    second: Assets 1_1606
+  - first:
+      213: -1544934033262844144
+    second: Assets 1_1607
+  - first:
+      213: 2255395690281063659
+    second: Assets 1_1608
+  - first:
+      213: -5140026097915026361
+    second: Assets 1_1609
+  - first:
+      213: 2833518338440195142
+    second: Assets 1_1610
+  - first:
+      213: 446013646632710826
+    second: Assets 1_1611
+  - first:
+      213: 6734078825643550790
+    second: Assets 1_1612
+  - first:
+      213: -8841078393106082403
+    second: Assets 1_1613
+  - first:
+      213: 8440735093686029239
+    second: Assets 1_1614
+  - first:
+      213: 749268872527680707
+    second: Assets 1_1615
+  - first:
+      213: 6017228189946769485
+    second: Assets 1_1616
+  - first:
+      213: 5658948410671249876
+    second: Assets 1_1617
+  - first:
+      213: 3827229468010038725
+    second: Assets 1_1618
+  - first:
+      213: -7467806124093976673
+    second: Assets 1_1619
+  - first:
+      213: 2146898868625250402
+    second: Assets 1_1620
+  - first:
+      213: -1675721939266614339
+    second: Assets 1_1621
+  - first:
+      213: 433427722024618553
+    second: Assets 1_1622
+  - first:
+      213: 6040962266914479806
+    second: Assets 1_1623
+  - first:
+      213: 4559891528190691427
+    second: Assets 1_1624
+  - first:
+      213: -1696102993053489412
+    second: Assets 1_1625
+  - first:
+      213: 4757501421236161501
+    second: Assets 1_1626
+  - first:
+      213: -5142216718126012668
+    second: Assets 1_1627
+  - first:
+      213: 1139752330885293992
+    second: Assets 1_1628
+  - first:
+      213: -91745446895784238
+    second: Assets 1_1629
+  - first:
+      213: -4523620362729105986
+    second: Assets 1_1630
+  - first:
+      213: 8694936248149377590
+    second: Assets 1_1631
+  - first:
+      213: -1765122979482468367
+    second: Assets 1_1632
+  - first:
+      213: 3338383368071020750
+    second: Assets 1_1633
+  - first:
+      213: 615588837187735835
+    second: Assets 1_1634
+  - first:
+      213: -880949194558982523
+    second: Assets 1_1635
+  - first:
+      213: 3539977015301956035
+    second: Assets 1_1636
+  - first:
+      213: 8022569073729526247
+    second: Assets 1_1637
+  - first:
+      213: -3782495339486357353
+    second: Assets 1_1638
+  - first:
+      213: -4879624645876147738
+    second: Assets 1_1639
+  - first:
+      213: 8749437551673728612
+    second: Assets 1_1640
+  - first:
+      213: 8253134883922548740
+    second: Assets 1_1641
+  - first:
+      213: 1519207000365676890
+    second: Assets 1_1642
+  - first:
+      213: -2553374745799444483
+    second: Assets 1_1643
+  - first:
+      213: -2677402084724179570
+    second: Assets 1_1644
+  - first:
+      213: -95220495453533931
+    second: Assets 1_1645
+  - first:
+      213: -3388956275982750047
+    second: Assets 1_1646
+  - first:
+      213: -8682280126013043795
+    second: Assets 1_1647
+  - first:
+      213: -5837448079659210953
+    second: Assets 1_1648
+  - first:
+      213: 7782422633874712099
+    second: Assets 1_1649
+  - first:
+      213: 7925095606505979570
+    second: Assets 1_1650
+  - first:
+      213: -6933873278867208484
+    second: Assets 1_1651
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets 1_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2322
+        width: 1318
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebce5fa8df598f0800000000000000
+      internalID: -534242207500288312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_1
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2881
+        width: 606
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e198c0bffcf0790800000000000000
+      internalID: -7561596572177719706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_2
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2876
+        width: 606
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768243b059d0ef2c0800000000000000
+      internalID: -4396061252477769625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_3
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 3218
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f282aed547268dc0800000000000000
+      internalID: -3637176468013677832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_4
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 3234
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79af64a274c0b70800000000000000
+      internalID: 8866540013290690473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_5
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 2893
+        width: 433
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178eb4d7d2e68bd30800000000000000
+      internalID: 4447425773683075185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_6
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 3134
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041042ac14dfce790800000000000000
+      internalID: -7499340820472659648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_7
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 3185
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf871a4c5fe491e0800000000000000
+      internalID: -2191863938963501123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_8
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 2976
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc97e9a8bebfe10800000000000000
+      internalID: 2232637020889009645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_9
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2956
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db66d9952c5d5d0800000000000000
+      internalID: -3038308683442897569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_10
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2935
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38085f3d2acb2d0800000000000000
+      internalID: -3261552998882442266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_11
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2942
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e14d350a5dba730800000000000000
+      internalID: 4011534777681452629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_12
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1824
+        width: 1288
+        height: 998
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c7c326cb8c93e0800000000000000
+      internalID: -2045606447612967098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_13
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2457
+        width: 607
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a743ac0bc41a0c590800000000000000
+      internalID: -7655942015774215046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_14
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2730
+        width: 303
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2937f16a8e26ec0800000000000000
+      internalID: -3575039353988869396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_15
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2539
+        width: 303
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62bcd0516f1ff680800000000000000
+      internalID: -8719215850737061267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1221
+        width: 1317
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cee722f188749a0800000000000000
+      internalID: -6248876290649166771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_17
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1302
+        width: 1288
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8232840632cd100800000000000000
+      internalID: 134020985348368567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_18
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 1979
+        width: 186
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ba719fd7ff13f0800000000000000
+      internalID: -927750458624527792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_19
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 1976
+        width: 189
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614625b12b6694300800000000000000
+      internalID: 236833370562257942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_20
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1962
+        width: 180
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486a93c0610808c0800000000000000
+      internalID: -4032971951200114611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 1317
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9809383d69de0de20800000000000000
+      internalID: 3373457352949993609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets 1_22
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 771
+        width: 1288
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68cf8a75b4179c0800000000000000
+      internalID: -3931278159848372552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
