@@ -11,8 +11,8 @@ public class PlayerAnimation : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _animatorPlayer = GetComponentInChildren<Animator>();
-        _animatorSword = GetComponentInChildren<Animator>();
+        _animatorPlayer = GetComponentsInChildren<Animator>()[0];
+        _animatorSword = GetComponentsInChildren<Animator>()[1];
 
         if (_animatorPlayer == null)
             Debug.Log("Player Animator not found");
