@@ -3,33 +3,54 @@ using System.Collections.Generic;
 using Unity.Profiling;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField]
     private Rigidbody2D _rb;
     [SerializeField]
     private float _horizontalInput = 0;
     private bool _jump;
     [SerializeField]
-    private float _jumpHeight = 10;
+    private float _jumpHeight = 5;
     [SerializeField]
-    private float _speed = 5f;
+    private float _speed = 2.5f;
+    [SerializeField]
+    private LayerMask layerMask;
+    [SerializeField]
+    private float _jumpRayOffset = 0.5f;
+    private bool resetJump;
+    private BoxCollider2D _playerColl;
+
+    private PlayerAnimation _anim;
 
     // Start is called before the first frame update
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _anim = GetComponent<PlayerAnimation>();
+        _playerColl = GetComponent<BoxCollider2D>();
+
+        if (_rb == null)
+            Debug.Log("Player Rigidbody2D not found");
+        if (_anim == null)
+            Debug.Log("Player Animation not found");
+        if (_playerColl == null)
+            Debug.Log("Player Collider not found");
     }
 
     // Update is called once per frame
     void Update()
     {
-        _horizontalInput = Input.GetAxisRaw("Horizontal");
-        _jump = Input.GetKeyDown(KeyCode.Space);
+        Movimiento();
+
+        if (Input.GetMouseButtonDown(0) && IsGrounded())
+        {
+            _anim.Attack();
+        }
     }
 
-    void FixedUpdate()
+    /*void FixedUpdate()
     {
         bool grounded = IsGrounded();
         Debug.Log(grounded);
@@ -39,21 +60,72 @@ public class Player : MonoBehaviour
         {
             _rb.velocity = new Vector2(_rb.velocity.x, _jumpHeight);
         }
+    }*/
+
+    private void Movimiento()
+    {
+        _horizontalInput = Input.GetAxisRaw("Horizontal");
+        _jump = Input.GetKeyDown(KeyCode.Space);
+
+        if (_jump && IsGrounded())
+        {
+            _rb.velocity = new Vector2(_rb.velocity.x, _jumpHeight);
+
+            _anim.Jump(true);
+
+            StartCoroutine(ResetJump());
+                      
+        }
+        else if (IsGrounded())
+        {
+            _anim.Jump(false);
+        }
+        
+
+        _rb.velocity = new Vector2(_horizontalInput * _speed, _rb.velocity.y);
+        _anim.Move(_horizontalInput);
     }
 
     private bool IsGrounded()
     {
-        /*RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, transform.GetComponent<BoxCollider2D>().bounds.extents.y);
-        if (hit.collider != null)
+        Color rayColor;
+
+        RaycastHit2D hitBox = Physics2D.BoxCast(_playerColl.bounds.center, _playerColl.bounds.size, 0f, Vector2.down, _jumpRayOffset, layerMask);
+        //RaycastHit2D hitCenter = Physics2D.Raycast(transform.position, Vector2.down, transform.GetComponent<BoxCollider2D>().bounds.extents.y + _jumpRayOffset, layerMask);
+
+        if (hitBox)
         {
-            return true;
+            rayColor = Color.green;
         }
         else
         {
-            return false;
+            rayColor = Color.red;
         }
-        */
+
+        Debug.DrawRay(_playerColl.bounds.center + new Vector3(_playerColl.bounds.extents.x, 0), Vector2.down * (_playerColl.bounds.extents.y + _jumpRayOffset), rayColor);
+        Debug.DrawRay(_playerColl.bounds.center - new Vector3(_playerColl.bounds.extents.x, 0), Vector2.down * (_playerColl.bounds.extents.y + _jumpRayOffset), rayColor);
+        Debug.DrawRay(_playerColl.bounds.center - new Vector3(_playerColl.bounds.extents.x, _playerColl.bounds.extents.y + _jumpRayOffset), Vector2.right * (_playerColl.bounds.size.x), rayColor);
+
+        Debug.DrawRay(transform.position, Vector3.down, rayColor, transform.GetComponent<BoxCollider2D>().bounds.extents.y + _jumpRayOffset);
+
+
+        if (hitBox.collider != null)
+        {
+            if (resetJump == false)
+            {
+                
+                return true;
+            }
+        }
         
-        return Physics2D.Raycast(transform.position, Vector2.down, transform.GetComponent<BoxCollider2D>().bounds.extents.y + 0.1f, 1 << 8);
+        return false;
+        
+    }
+
+    private IEnumerator ResetJump()
+    {
+        resetJump = true;
+        yield return new WaitForSeconds(0.1f);
+        resetJump = false;
     }
 }
